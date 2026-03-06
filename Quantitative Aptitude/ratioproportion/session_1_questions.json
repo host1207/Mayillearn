@@ -1,0 +1,134 @@
+{
+    "questions": [
+        {
+            "id": "q_1",
+            "question": "Ratio is defined as",
+            "options": {
+                "A": "Comparison of any two quantities",
+                "B": "Comparison of two or more quantities of the same kind by addition",
+                "C": "Comparison of two or more quantities of the same kind by division",
+                "D": "Comparison of quantities having different units"
+            },
+            "correctAnswer": "C",
+            "explanation": "Ratio is the comparison of two or more quantities of the same kind by division.",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_2",
+            "question": "While forming a ratio, the quantities must be",
+            "options": {
+                "A": "Positive only",
+                "B": "Of the same kind (same unit)",
+                "C": "Whole numbers only",
+                "D": "Equal in value"
+            },
+            "correctAnswer": "B",
+            "explanation": "The units must be the same to compare quantities in a ratio.",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_3",
+            "question": "If A : B = 2 : 5, then",
+            "options": {
+                "A": "A is 5 times B",
+                "B": "B is twice A",
+                "C": "B is 2.5 times A",
+                "D": "A is twice B"
+            },
+            "correctAnswer": "C",
+            "explanation": "If A : B = 2 : 5, then B/A = 5/2 = 2.5, so B is 2.5 times A.",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_4",
+            "question": "The duplicate ratio of 4 : 7 is",
+            "options": {
+                "A": "8 : 14",
+                "B": "16 : 49",
+                "C": "4 : 49",
+                "D": "16 : 14"
+            },
+            "correctAnswer": "B",
+            "explanation": "Duplicate ratio is obtained by squaring each term: 4² : 7² = 16 : 49",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_5",
+            "question": "The triplicate ratio of 2 : 3 is",
+            "options": {
+                "A": "4 : 9",
+                "B": "6 : 9",
+                "C": "8 : 27",
+                "D": "16 : 81"
+            },
+            "correctAnswer": "C",
+            "explanation": "Triplicate ratio is obtained by cubing each term: 2³ : 3³ = 8 : 27",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_6",
+            "question": "The sub-duplicate ratio of 9 : 16 is",
+            "options": {
+                "A": "3 : 4",
+                "B": "81 : 256",
+                "C": "6 : 8",
+                "D": "4 : 3"
+            },
+            "correctAnswer": "A",
+            "explanation": "Sub-duplicate ratio is obtained by taking square root: √9 : √16 = 3 : 4",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_7",
+            "question": "The sub-triplicate ratio of 8 : 27 is",
+            "options": {
+                "A": "64 : 729",
+                "B": "2 : 3",
+                "C": "4 : 9",
+                "D": "3 : 2"
+            },
+            "correctAnswer": "B",
+            "explanation": "Sub-triplicate ratio is obtained by taking cube root: ∛8 : ∛27 = 2 : 3",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_8",
+            "question": "The inverse ratio of 5 : 11 is",
+            "options": {
+                "A": "5 : 11",
+                "B": "11 : 5",
+                "C": "1 : 5",
+                "D": "1 : 11"
+            },
+            "correctAnswer": "B",
+            "explanation": "Inverse ratio is obtained by interchanging the terms: 5 : 11 → 11 : 5",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_9",
+            "question": "Convert the fractional ratio 3/5 : 2/3 into a simple ratio",
+            "options": {
+                "A": "6 : 5",
+                "B": "9 : 10",
+                "C": "5 : 6",
+                "D": "10 : 9"
+            },
+            "correctAnswer": "B",
+            "explanation": "LCM of 5 and 3 is 15. (3/5 × 15) : (2/3 × 15) = 9 : 10",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        },
+        {
+            "id": "q_10",
+            "question": "Which of the following represents a proportion?",
+            "options": {
+                "A": "4 : 6 = 8 : 10",
+                "B": "3 : 5 = 6 : 15",
+                "C": "5 : 7 = 15 : 21",
+                "D": "2 : 3 = 5 : 9"
+            },
+            "correctAnswer": "C",
+            "explanation": "5 : 7 = 15 : 21 because 5/7 = 15/21 (both simplify to 5:7)",
+            "createdAt": "2026-02-03T18:40:00.000Z"
+        }
+    ]
+}

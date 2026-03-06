@@ -1,0 +1,357 @@
+{
+    "topic": "HCF and LCM",
+    "section": "Section IV: Remainder-Based Challenges",
+    "questionRange": "Q56-Q80",
+    "questions": [
+        {
+            "qid": "hcflcm_056",
+            "question": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+            "options": {
+                "A": "123",
+                "B": "127",
+                "C": "235",
+                "D": "305"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "Section Officer's 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_057",
+            "question": "Find the largest number which divides 62, 132 and 237 to leave the same remainder in each case.",
+            "options": {
+                "A": "35",
+                "B": "70",
+                "C": "105",
+                "D": "15"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_058",
+            "question": "Find the least number which when divided by 6, 7, 8, 9 and 12 leaves the same remainder 1 in each case.",
+            "options": {
+                "A": "504",
+                "B": "505",
+                "C": "1009",
+                "D": "253"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Problems (L.C.M. based)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_059",
+            "question": "Find the least number which when divided by 20, 25, 35 and 40 leaves remainders 14, 19, 29 and 34 respectively.",
+            "options": {
+                "A": "1394",
+                "B": "1400",
+                "C": "1406",
+                "D": "1388"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (L.C.M. based)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_060",
+            "question": "What is the least number which when divided by the numbers 3, 5, 6, 8, 10 and 12 leaves in each case a remainder 2 but when divided by 13 leaves no remainder?",
+            "options": {
+                "A": "312",
+                "B": "962",
+                "C": "1562",
+                "D": "1586"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Problems (L.C.M. based)",
+            "examInfo": "S.S.C. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_061",
+            "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+            "options": {
+                "A": "4",
+                "B": "7",
+                "C": "9",
+                "D": "13"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_062",
+            "question": "If r is the remainder when each of 7654, 8506 and 9997 is divided by the greatest number d (d > 1), then d - r is equal to:",
+            "options": {
+                "A": "14",
+                "B": "18",
+                "C": "24",
+                "D": "28"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "A.A.O. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_063",
+            "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then the sum of the digits in N is:",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "8"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "S.S.C. 2004",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_064",
+            "question": "The greatest number which can divide 1356, 1868 and 2764 leaving the same remainder 12 in each case is:",
+            "options": {
+                "A": "64",
+                "B": "124",
+                "C": "156",
+                "D": "260"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_065",
+            "question": "Which greatest number will divide 3026 and 5053 leaving remainders 11 and 13 respectively?",
+            "options": {
+                "A": "15",
+                "B": "30",
+                "C": "45",
+                "D": "60"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "C.P.O. 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_066",
+            "question": "Find the greatest number that will divide 964, 1238 and 1400 leaving remainders 41, 31 and 51 respectively.",
+            "options": {
+                "A": "61",
+                "B": "71",
+                "C": "73",
+                "D": "81"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Problems (H.C.F. based)",
+            "examInfo": "I.I.F.T. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_067",
+            "question": "The H.C.F. and L.C.M. of two numbers are 12 and 336 respectively. If one of the numbers is 84, the other is:",
+            "options": {
+                "A": "36",
+                "B": "48",
+                "C": "72",
+                "D": "96"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "S.S.C. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_068",
+            "question": "If the product of two numbers is 324 and their H.C.F. is 3, then their L.C.M. will be:",
+            "options": {
+                "A": "972",
+                "B": "327",
+                "C": "321",
+                "D": "108"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "P.C.S. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_069",
+            "question": "If H.C.F. of p and q is x and q = xy, then the L.C.M. of p and q is:",
+            "options": {
+                "A": "pq",
+                "B": "qy",
+                "C": "xy",
+                "D": "py"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "C.D.S. 2004",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_070",
+            "question": "The sum of two numbers is 2000 and their L.C.M. is 21879. The two numbers are:",
+            "options": {
+                "A": "1993, 7",
+                "B": "1991, 9",
+                "C": "1989, 11",
+                "D": "1987, 13"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_071",
+            "question": "The H.C.F. and L.C.M. of two numbers are 84 and 21 respectively. If the ratio of the two numbers is 1:4, then the larger of the two numbers is:",
+            "options": {
+                "A": "12",
+                "B": "48",
+                "C": "84",
+                "D": "108"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_072",
+            "question": "The L.C.M. of two numbers is 495 and their H.C.F. is 5. If the sum of the numbers is 100, then their difference is:",
+            "options": {
+                "A": "10",
+                "B": "46",
+                "C": "70",
+                "D": "90"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_073",
+            "question": "The product of the L.C.M. and H.C.F. of two numbers is 24. The difference of the two numbers is 2. Find the numbers.",
+            "options": {
+                "A": "2 and 4",
+                "B": "6 and 4",
+                "C": "8 and 6",
+                "D": "8 and 10"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_074",
+            "question": "If the sum of two numbers is 36 and their H.C.F. and L.C.M. are 3 and 105 respectively, the sum of the reciprocals of the two numbers is:",
+            "options": {
+                "A": "2/35",
+                "B": "3/35",
+                "C": "4/35",
+                "D": "None of these"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "S.S.C. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_075",
+            "question": "The L.C.M. of two numbers is 12 times their H.C.F. The sum of H.C.F. and L.C.M. is 403. If one number is 93, find the other.",
+            "options": {
+                "A": "124",
+                "B": "128",
+                "C": "134",
+                "D": "None of these"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "M.B.A. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_076",
+            "question": "The H.C.F. and L.C.M. of two numbers are 50 and 250 respectively. If the first number is divided by 2, the quotient is 50. The second number is:",
+            "options": {
+                "A": "50",
+                "B": "100",
+                "C": "125",
+                "D": "250"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_077",
+            "question": "The product of two numbers is 1320 and their H.C.F. is 6. The L.C.M. of the numbers is:",
+            "options": {
+                "A": "220",
+                "B": "1314",
+                "C": "1326",
+                "D": "7920"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_078",
+            "question": "Product of two co-prime numbers is 117. Their L.C.M. should be:",
+            "options": {
+                "A": "1",
+                "B": "117",
+                "C": "Equal to their H.C.F.",
+                "D": "Cannot be calculated"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_079",
+            "question": "The L.C.M. of three different numbers is 120. Which of the following cannot be their H.C.F.?",
+            "options": {
+                "A": "8",
+                "B": "12",
+                "C": "24",
+                "D": "35"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "Campus Recruitment 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_080",
+            "question": "Find the smallest number which when increased by 10 is completely divisible by 12, 15, 18, 20 and 24.",
+            "options": {
+                "A": "360",
+                "B": "350",
+                "C": "370",
+                "D": "340"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Problems (L.C.M. based)",
+            "examInfo": "P.C.S. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        }
+    ]
+}

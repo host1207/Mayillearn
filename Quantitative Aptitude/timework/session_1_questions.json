@@ -1,0 +1,17 @@
+{
+  "questions": [
+    {
+      "id": "q_sunflower_1",
+      "question": "What is the colour of a sunflower?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Green",
+        "D": "Yellow"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sunflowers are bright Yellow! Their large petals are yellow and their centre is dark brown.",
+      "createdAt": "2026-03-05T12:00:00.000Z"
+    }
+  ]
+}

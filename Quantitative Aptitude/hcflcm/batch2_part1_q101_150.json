@@ -1,0 +1,659 @@
+{
+    "batch": 2,
+    "part": 1,
+    "range": "Q101-Q150",
+    "topic": "HCF and LCM",
+    "addedAt": "2026-02-23T08:41:00+05:30",
+    "questions": [
+        {
+            "qid": "hcflcm_101",
+            "question": "Five clocks ring automatically at intervals of 12, 8, 3, 4, and 10 minutes respectively. Starting from a simultaneous ring, how many times will they ring together in 8 hours?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_102",
+            "question": "Three cyclists cycle along a jungle track. They complete one round in 27 minutes, 45 minutes, and 63 minutes respectively. If they start together, when will they meet again at the starting position?",
+            "options": {
+                "A": "900 mins",
+                "B": "945 mins",
+                "C": "1020 mins",
+                "D": "845 mins"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Circular Tracks)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_103",
+            "question": "The traffic lights at three road crossings change every 48, 72, and 108 seconds. If they change simultaneously at 8:20:00 hours, at what time will they change together again?",
+            "options": {
+                "A": "8:27:12 hrs",
+                "B": "8:28:12 hrs",
+                "C": "8:27:00 hrs",
+                "D": "8:20:43 hrs"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Simultaneous Events (Traffic Lights)",
+            "examInfo": "R.R.B., M.A.T."
+        },
+        {
+            "qid": "hcflcm_104",
+            "question": "Seema, Meena, and Reema jog around a circular stadium, completing revolutions in 54s, 42s, and 63s. How much time passes before they meet at the starting point?",
+            "options": {
+                "A": "378 seconds",
+                "B": "420 seconds",
+                "C": "540 seconds",
+                "D": "315 seconds"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "Bank P.O."
+        },
+        {
+            "qid": "hcflcm_105",
+            "question": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+            "options": {
+                "A": "123",
+                "B": "127",
+                "C": "235",
+                "D": "305"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "Section Officer's"
+        },
+        {
+            "qid": "hcflcm_106",
+            "question": "What is the least number which when divided by 36, 24, and 16 leaves 11 as a remainder in each case?",
+            "options": {
+                "A": "144",
+                "B": "155",
+                "C": "166",
+                "D": "133"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_107",
+            "question": "Find the largest number which divides 62, 132, and 237 to leave the same remainder in each case.",
+            "options": {
+                "A": "30",
+                "B": "35",
+                "C": "40",
+                "D": "45"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_108",
+            "question": "What least number when divided by 20, 48, and 36 leaves remainders 13, 41, and 29 respectively?",
+            "options": {
+                "A": "713",
+                "B": "720",
+                "C": "727",
+                "D": "693"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_109",
+            "question": "Find the greatest number that divides 17, 42, and 93 leaving remainders 4, 3, and 15.",
+            "options": {
+                "A": "11",
+                "B": "12",
+                "C": "13",
+                "D": "14"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_110",
+            "question": "What is the largest number that will divide 47, 35, and 27 leaving the same remainder in each case?",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_111",
+            "question": "There are three equilateral triangles with sides 114 cm, 76 cm, and 152 cm. What is the maximum size scale that can measure them exactly?",
+            "options": {
+                "A": "19 cm",
+                "B": "38 cm",
+                "C": "76 cm",
+                "D": "2 cm"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Measurement Models",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_112",
+            "question": "Manoj wants to cover a wall 450 cm long and 350 cm high with maximum sized square wallpaper pieces. What is the total number of square pieces needed?",
+            "options": {
+                "A": "50",
+                "B": "60",
+                "C": "63",
+                "D": "70"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Measurement Models",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_113",
+            "question": "Find the greatest possible length which can be used to measure exactly the lengths 4 m 95 cm, 9 m, and 16 m 65 cm.",
+            "options": {
+                "A": "15 cm",
+                "B": "25 cm",
+                "C": "35 cm",
+                "D": "45 cm"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Measurement Models",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_114",
+            "question": "Find the greatest number of five digits which is divisible by 15, 21, and 36.",
+            "options": {
+                "A": "99540",
+                "B": "99999",
+                "C": "99260",
+                "D": "99545"
+            },
+            "correctAnswer": "A",
+            "subtopic": "N-digit Range",
+            "examInfo": "P.C.S."
+        },
+        {
+            "qid": "hcflcm_115",
+            "question": "Find the smallest number of five digits exactly divisible by 16, 24, 36, and 54.",
+            "options": {
+                "A": "10000",
+                "B": "10368",
+                "C": "10432",
+                "D": "10800"
+            },
+            "correctAnswer": "B",
+            "subtopic": "N-digit Range",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_116",
+            "question": "What is the least possible four-digit number which when divided by 12, 16, 18, and 20 leaves 21 as a remainder?",
+            "options": {
+                "A": "1440",
+                "B": "1461",
+                "C": "1521",
+                "D": "1441"
+            },
+            "correctAnswer": "B",
+            "subtopic": "N-digit Range",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_117",
+            "question": "The ratio of two numbers is 5:6 and their L.C.M. is 480. Find their H.C.F.",
+            "options": {
+                "A": "16",
+                "B": "20",
+                "C": "24",
+                "D": "30"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_118",
+            "question": "H.C.F. and L.C.M. of two numbers are 8 and 96. If the sum of the numbers is 56, what is the sum of their reciprocals?",
+            "options": {
+                "A": "7/96",
+                "B": "5/96",
+                "C": "1/56",
+                "D": "8/96"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_119",
+            "question": "If (x – 4) is the H.C.F. of x² – 8x + 15 and x² – kx – 1, find the value of k.",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_120",
+            "question": "The sum of two numbers is 156 and their H.C.F. is 13. How many such number pairs exist?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CareerRide"
+        },
+        {
+            "qid": "hcflcm_121",
+            "question": "Find the H.C.F. of 2³ × 3² × 5 × 7⁴, 2² × 3⁵ × 5² × 7³, and 2³ × 5³ × 7².",
+            "options": {
+                "A": "980",
+                "B": "490",
+                "C": "1960",
+                "D": "940"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_122",
+            "question": "Find the L.C.M. of 72, 108 and 2100.",
+            "options": {
+                "A": "37800",
+                "B": "3780",
+                "C": "18900",
+                "D": "75600"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_123",
+            "question": "Two numbers are in ratio 15:11. If H.C.F. is 13, the numbers are:",
+            "options": {
+                "A": "195, 143",
+                "B": "190, 140",
+                "C": "185, 133",
+                "D": "200, 150"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_124",
+            "question": "The H.C.F. of two numbers is 11 and L.C.M. is 693. If one number is 77, find the other.",
+            "options": {
+                "A": "88",
+                "B": "99",
+                "C": "66",
+                "D": "121"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "P.C.S."
+        },
+        {
+            "qid": "hcflcm_125",
+            "question": "Find the least number exactly divisible by 32, 36, 45, 60, and 80.",
+            "options": {
+                "A": "1200",
+                "B": "1440",
+                "C": "1800",
+                "D": "2400"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "R.R.B."
+        },
+        {
+            "qid": "hcflcm_126",
+            "question": "Find the smallest number which when increased by 10 is divisible by 12, 15, 18, 20 and 24.",
+            "options": {
+                "A": "350",
+                "B": "360",
+                "C": "370",
+                "D": "340"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "P.C.S."
+        },
+        {
+            "qid": "hcflcm_127",
+            "question": "Find the largest number of five digits which when divided by 16, 24, 30, or 36 leaves remainder 10.",
+            "options": {
+                "A": "99360",
+                "B": "99370",
+                "C": "99270",
+                "D": "99470"
+            },
+            "correctAnswer": "B",
+            "subtopic": "N-digit Range",
+            "examInfo": "C.P.O."
+        },
+        {
+            "qid": "hcflcm_128",
+            "question": "Find the H.C.F. of 108, 288 and 360.",
+            "options": {
+                "A": "18",
+                "B": "36",
+                "C": "54",
+                "D": "72"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "L.I.C.A.D.O."
+        },
+        {
+            "qid": "hcflcm_129",
+            "question": "Find the H.C.F. and L.C.M. of 0.63, 1.05 and 2.1.",
+            "options": {
+                "A": "0.21 and 6.30",
+                "B": "0.21 and 63",
+                "C": "2.1 and 6.3",
+                "D": "0.021 and 0.63"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_130",
+            "question": "Reduce 391/667 to lowest terms.",
+            "options": {
+                "A": "19/23",
+                "B": "15/19",
+                "C": "17/29",
+                "D": "13/21"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_131",
+            "question": "Find the H.C.F. of 513, 1134 and 1215.",
+            "options": {
+                "A": "21",
+                "B": "27",
+                "C": "33",
+                "D": "81"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_132",
+            "question": "Find the L.C.M. of 2² × 3³ × 5 × 7², 2³ × 3² × 5² × 7⁴, and 2 × 3 × 5³ × 7 × 11.",
+            "options": {
+                "A": "2³ × 3³ × 5³ × 7⁴ × 11",
+                "B": "2² × 3² × 5² × 7²",
+                "C": "2³ × 3³ × 5³ × 7⁴",
+                "D": "2 × 3 × 5 × 7 × 11"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "L.I.C.A.D.O."
+        },
+        {
+            "qid": "hcflcm_133",
+            "question": "Find the H.C.F. of 2/3, 8/9, 16/81 and 10/27.",
+            "options": {
+                "A": "80/3",
+                "B": "2/81",
+                "C": "10/81",
+                "D": "2/3"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_134",
+            "question": "Two numbers are in the ratio of 3:4. Their L.C.M. is 84. Find the numbers.",
+            "options": {
+                "A": "21, 28",
+                "B": "24, 32",
+                "C": "15, 20",
+                "D": "18, 24"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "S.S.C."
+        },
+        {
+            "qid": "hcflcm_135",
+            "question": "The sum of two numbers is 462 and their H.C.F. is 22. What is the number of pairs that satisfy these conditions?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "7"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "M.A.T."
+        },
+        {
+            "qid": "hcflcm_136",
+            "question": "The sum and difference of the L.C.M and H.C.F. of two numbers are 592 and 518 respectively. If the sum of the numbers is 296, find the numbers.",
+            "options": {
+                "A": "111, 185",
+                "B": "100, 196",
+                "C": "120, 176",
+                "D": "115, 181"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Section Officer's"
+        },
+        {
+            "qid": "hcflcm_137",
+            "question": "The H.C.F. of two numbers, each having three digits is 17 and their L.C.M. is 714. Find the sum of the numbers.",
+            "options": {
+                "A": "221",
+                "B": "231",
+                "C": "241",
+                "D": "251"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "C.P.O."
+        },
+        {
+            "qid": "hcflcm_138",
+            "question": "Find the largest number which when subtracted from 10000, the remainder is divisible by 32, 36, 48 and 50.",
+            "options": {
+                "A": "864",
+                "B": "9136",
+                "C": "9200",
+                "D": "7200"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "R.R.B."
+        },
+        {
+            "qid": "hcflcm_139",
+            "question": "Arrange the fractions 17/18, 31/36, 43/45, 59/60 in ascending order.",
+            "options": {
+                "A": "31/36, 17/18, 43/45, 59/60",
+                "B": "17/18, 31/36, 43/45, 59/60",
+                "C": "59/60, 43/45, 31/36, 17/18",
+                "D": "31/36, 43/45, 17/18, 59/60"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_140",
+            "question": "Find the factors of 330.",
+            "options": {
+                "A": "2 × 4 × 5 × 11",
+                "B": "2 × 3 × 7 × 13",
+                "C": "2 × 3 × 5 × 13",
+                "D": "2 × 3 × 5 × 11"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CLAT"
+        },
+        {
+            "qid": "hcflcm_141",
+            "question": "Find the factors of 1122.",
+            "options": {
+                "A": "3 × 9 × 17 × 2",
+                "B": "3 × 11 × 17 × 2",
+                "C": "9 × 9 × 17 × 2",
+                "D": "3 × 11 × 17 × 3"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "CLAT"
+        },
+        {
+            "qid": "hcflcm_142",
+            "question": "252 can be expressed as a product of primes as:",
+            "options": {
+                "A": "2 × 2 × 3 × 3 × 7",
+                "B": "2 × 2 × 2 × 3 × 7",
+                "C": "3 × 3 × 3 × 3 × 7",
+                "D": "2 × 3 × 3 × 3 × 7"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "IGNOU"
+        },
+        {
+            "qid": "hcflcm_143",
+            "question": "Which of the following has the most number of divisors?",
+            "options": {
+                "A": "99",
+                "B": "101",
+                "C": "176",
+                "D": "182"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "MBA"
+        },
+        {
+            "qid": "hcflcm_144",
+            "question": "A number n is said to be perfect if the sum of all its divisors (excluding n itself) is equal to n. An example is:",
+            "options": {
+                "A": "6",
+                "B": "9",
+                "C": "15",
+                "D": "21"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_145",
+            "question": "Reduce 128352 / 238368 to its lowest terms.",
+            "options": {
+                "A": "3/4",
+                "B": "5/13",
+                "C": "7/13",
+                "D": "9/13"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "IGNOU"
+        },
+        {
+            "qid": "hcflcm_146",
+            "question": "The simplest reduction to lowest terms of 116,690,151 / 427,863,887 is:",
+            "options": {
+                "A": "3/11",
+                "B": "7/11",
+                "C": "11/3",
+                "D": "None of these"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "SNAP"
+        },
+        {
+            "qid": "hcflcm_147",
+            "question": "The highest common factor of 0 and 6 is:",
+            "options": {
+                "A": "0",
+                "B": "3",
+                "C": "6",
+                "D": "Undefined"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "P.C.S."
+        },
+        {
+            "qid": "hcflcm_148",
+            "question": "The H.C.F. of 2² × 3³ × 5⁵, 2³ × 3² × 5² × 7 and 2⁴ × 3⁴ × 5 × 7² × 11 is:",
+            "options": {
+                "A": "2² × 3² × 5",
+                "B": "2² × 3² × 5 × 7 × 11",
+                "C": "2⁴ × 3⁴ × 5⁵",
+                "D": "2⁴ × 3⁴ × 5⁵ × 7 × 11"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_149",
+            "question": "Find the highest common factor of 36 and 84.",
+            "options": {
+                "A": "4",
+                "B": "6",
+                "C": "12",
+                "D": "18"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "R.R.B."
+        },
+        {
+            "qid": "hcflcm_150",
+            "question": "Even numbers are formed by taking at least two at a time from 0, 4, 8, 9. Their H.C.F. is:",
+            "options": {
+                "A": "2",
+                "B": "4",
+                "C": "10",
+                "D": "None of these"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Hotel Management"
+        }
+    ]
+}

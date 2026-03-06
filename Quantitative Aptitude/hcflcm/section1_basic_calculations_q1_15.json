@@ -1,0 +1,217 @@
+{
+    "topic": "HCF and LCM",
+    "section": "Section I: Basic Calculations and Prime Factorization",
+    "questionRange": "Q1-Q15",
+    "questions": [
+        {
+            "qid": "hcflcm_001",
+            "question": "Find the H.C.F. of 2³ × 3² × 5 × 7⁴, 2² × 3⁵ × 5² × 7³, and 2³ × 5³ × 7².",
+            "options": {
+                "A": "2² × 5 × 7²",
+                "B": "2³ × 3² × 5² × 7⁴",
+                "C": "2² × 3² × 5 × 7²",
+                "D": "2³ × 3⁵ × 5³ × 7⁴"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_002",
+            "question": "Find the H.C.F. of 42, 63, and 140.",
+            "options": {
+                "A": "14",
+                "B": "9",
+                "C": "21",
+                "D": "7"
+            },
+            "correctAnswer": "D",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_003",
+            "question": "Find the H.C.F. of 108, 288, and 360.",
+            "options": {
+                "A": "18",
+                "B": "36",
+                "C": "54",
+                "D": "12"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "L.I.C.A.D.O. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_004",
+            "question": "Find the H.C.F. of 513, 1134, and 1215.",
+            "options": {
+                "A": "27",
+                "B": "81",
+                "C": "9",
+                "D": "31"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_005",
+            "question": "Find the L.C.M. of 2² × 3³ × 5 × 7², 2³ × 3² × 5² × 7⁴, and 2 × 3 × 5³ × 7 × 11.",
+            "options": {
+                "A": "2² × 3² × 5 × 7",
+                "B": "2³ × 3³ × 5³ × 7⁴ × 11",
+                "C": "2³ × 3³ × 5² × 7⁴ × 11",
+                "D": "2² × 3³ × 5³ × 7² × 11"
+            },
+            "correctAnswer": "B",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "L.I.C.A.D.O. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_006",
+            "question": "Find the L.C.M. of 87 and 145.",
+            "options": {
+                "A": "435",
+                "B": "290",
+                "C": "1305",
+                "D": "870"
+            },
+            "correctAnswer": "A",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_007",
+            "question": "Find the L.C.M. of 72, 108, and 2100.",
+            "options": {
+                "A": "21000",
+                "B": "37800",
+                "C": "18900",
+                "D": "75600"
+            },
+            "correctAnswer": "B",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_008",
+            "question": "Find the L.C.M. of 16, 24, 36, and 54.",
+            "options": {
+                "A": "216",
+                "B": "864",
+                "C": "432",
+                "D": "108"
+            },
+            "correctAnswer": "C",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_009",
+            "question": "Find the factors of 330.",
+            "options": {
+                "A": "2 × 3 × 5 × 13",
+                "B": "2 × 3 × 7 × 11",
+                "C": "2 × 3 × 5 × 11",
+                "D": "2 × 2 × 5 × 11"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Prime Factorization",
+            "examInfo": "CLAT 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_010",
+            "question": "Find the factors of 1122.",
+            "options": {
+                "A": "2 × 3 × 11 × 17",
+                "B": "2 × 3 × 13 × 17",
+                "C": "2 × 5 × 11 × 17",
+                "D": "3 × 7 × 11 × 13"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Prime Factorization",
+            "examInfo": "CLAT 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_011",
+            "question": "252 can be expressed as a product of primes as:",
+            "options": {
+                "A": "2² × 3² × 7",
+                "B": "2³ × 3 × 7",
+                "C": "3⁴ × 7",
+                "D": "2 × 3³ × 7"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Prime Factorization",
+            "examInfo": "IGNOU 2002",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_012",
+            "question": "Which of the following has most number of divisors?",
+            "options": {
+                "A": "99",
+                "B": "101",
+                "C": "176",
+                "D": "182"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Prime Factorization",
+            "examInfo": "M.B.A. 2002",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_013",
+            "question": "A number n is said to be perfect if the sum of all its divisors (excluding n itself) is equal to n. An example of a perfect number is:",
+            "options": {
+                "A": "6",
+                "B": "9",
+                "C": "15",
+                "D": "21"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Prime Factorization",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_014",
+            "question": "The highest common factor of 0 and 6 is:",
+            "options": {
+                "A": "0",
+                "B": "3",
+                "C": "6",
+                "D": "Undefined"
+            },
+            "correctAnswer": "D",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "P.C.S. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_015",
+            "question": "The H.C.F. of 2² × 3³ × 5⁵, 2³ × 3² × 5² × 7, and 2⁴ × 3⁴ × 5 × 7² × 11 is:",
+            "options": {
+                "A": "2² × 3² × 5",
+                "B": "2² × 3² × 5 × 7 × 11",
+                "C": "2⁴ × 3⁴ × 5⁵",
+                "D": "2² × 3² × 5 × 7"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        }
+    ]
+}

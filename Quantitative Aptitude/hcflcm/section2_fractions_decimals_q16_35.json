@@ -1,0 +1,287 @@
+{
+    "topic": "HCF and LCM",
+    "section": "Section II: Fractions, Decimals, and Lowest Terms",
+    "questionRange": "Q16-Q35",
+    "questions": [
+        {
+            "qid": "hcflcm_016",
+            "question": "Reduce 391/667 to lowest terms.",
+            "options": {
+                "A": "19/23",
+                "B": "15/19",
+                "C": "17/29",
+                "D": "13/21"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_017",
+            "question": "Find the H.C.F. of 2/3, 8/9, 16/81, and 10/27.",
+            "options": {
+                "A": "2/3",
+                "B": "2/81",
+                "C": "160/3",
+                "D": "80/3"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_018",
+            "question": "Find the L.C.M. of 2/3, 8/9, 16/81, and 10/27.",
+            "options": {
+                "A": "80/3",
+                "B": "2/81",
+                "C": "160/81",
+                "D": "40/9"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_019",
+            "question": "Find the H.C.F. of 0.63, 1.05, and 2.1.",
+            "options": {
+                "A": "0.07",
+                "B": "0.63",
+                "C": "0.21",
+                "D": "2.1"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_020",
+            "question": "Find the L.C.M. of 0.63, 1.05, and 2.1.",
+            "options": {
+                "A": "63.0",
+                "B": "6.30",
+                "C": "1.26",
+                "D": "12.6"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_021",
+            "question": "1095/1168 when expressed in simplest form is:",
+            "options": {
+                "A": "13/16",
+                "B": "15/16",
+                "C": "17/26",
+                "D": "25/26"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_022",
+            "question": "Reduce 128352/238368 to its lowest terms.",
+            "options": {
+                "A": "3/4",
+                "B": "5/13",
+                "C": "7/13",
+                "D": "9/13"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "IGNOU 2003",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_023",
+            "question": "The simplest reduction to the lowest terms of 116690151/427863887 is:",
+            "options": {
+                "A": "3/11",
+                "B": "7/11",
+                "C": "11/3",
+                "D": "5/13"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "SNAP 2004",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_024",
+            "question": "The H.C.F. of a/b, c/d, and e/f is equal to:",
+            "options": {
+                "A": "L.C.M. of (a, c, e) / H.C.F. of (b, d, f)",
+                "B": "H.C.F. of (a, c, e) / L.C.M. of (b, d, f)",
+                "C": "H.C.F. of (a, c, e) / H.C.F. of (b, d, f)",
+                "D": "ace / bdf"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "I.A.M. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_025",
+            "question": "The H.C.F. of 2/3, 8/9, 64/81, and 10/27 is:",
+            "options": {
+                "A": "2/3",
+                "B": "2/81",
+                "C": "160/3",
+                "D": "160/81"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_026",
+            "question": "The H.C.F. of 9/10, 12/25, 18/35, and 21/40 is:",
+            "options": {
+                "A": "3/5",
+                "B": "252/5",
+                "C": "3/1400",
+                "D": "63/700"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_027",
+            "question": "The L.C.M. of 1/3, 5/6, 2/9, and 4/27 is:",
+            "options": {
+                "A": "1/54",
+                "B": "10/27",
+                "C": "20/3",
+                "D": "None of these"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_028",
+            "question": "The L.C.M. of 2/3, 3/5, 4/7, and 9/13 is:",
+            "options": {
+                "A": "36",
+                "B": "1/36",
+                "C": "1/1365",
+                "D": "12/455"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_029",
+            "question": "The L.C.M. of 3/4, 6/7, and 9/8 is:",
+            "options": {
+                "A": "3",
+                "B": "6",
+                "C": "9",
+                "D": "18"
+            },
+            "correctAnswer": "D",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "L.I.C.A.D.O. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_030",
+            "question": "The H.C.F. of 1.75, 5.6, and 7 is:",
+            "options": {
+                "A": "0.07",
+                "B": "0.7",
+                "C": "3.5",
+                "D": "0.35"
+            },
+            "correctAnswer": "D",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_031",
+            "question": "The G.C.D. of 1.08, 0.36, and 0.9 is:",
+            "options": {
+                "A": "0.03",
+                "B": "0.9",
+                "C": "0.18",
+                "D": "0.108"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "Hotel Management 2002",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_032",
+            "question": "The H.C.F. of 0.54, 1.8, and 7.2 is:",
+            "options": {
+                "A": "1.8",
+                "B": "0.18",
+                "C": "0.018",
+                "D": "18"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_033",
+            "question": "The L.C.M. of 3, 2.7, and 0.09 is:",
+            "options": {
+                "A": "2.7",
+                "B": "0.27",
+                "C": "0.027",
+                "D": "27"
+            },
+            "correctAnswer": "D",
+            "subtopic": "H.C.F. & L.C.M. of Decimals",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_034",
+            "question": "Find the highest common factor of 36 and 84.",
+            "options": {
+                "A": "4",
+                "B": "6",
+                "C": "12",
+                "D": "18"
+            },
+            "correctAnswer": "C",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "R.R.B. 2003",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_035",
+            "question": "The H.C.F. of 204, 1190, and 1445 is:",
+            "options": {
+                "A": "17",
+                "B": "18",
+                "C": "19",
+                "D": "21"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sessions": [
+        {
+            "sessionNumber": 1,
+            "title": "Introduction to Ratio & Proportion",
+            "description": "Definitions, types of ratios (duplicate, triplicate, sub-duplicate, sub-triplicate, inverse), and converting fractional ratios",
+            "createdAt": "2026-02-03T17:30:00.000Z",
+            "updatedAt": "2026-02-03T17:30:00.000Z"
+        },
+        {
+            "sessionNumber": 2,
+            "title": "Ratio & Proportion - Part 2",
+            "description": "Deep dive into advanced concepts with handwritten examples and a practice test with detailed explanations.",
+            "createdAt": "2026-02-03T22:30:00.000Z",
+            "updatedAt": "2026-02-03T22:30:00.000Z"
+        }
+    ]
+}

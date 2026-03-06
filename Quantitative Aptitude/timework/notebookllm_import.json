@@ -1,0 +1,859 @@
+{
+    "topic": "timework",
+    "topicName": "Time & Work",
+    "source": "Google NotebookLM",
+    "totalExpected": 175,
+    "totalCollected": 75,
+    "status": "collecting",
+    "notes": "Q1-50 have AI-generated options (fake distractors). Q51+ have original book options from NotebookLM.",
+    "batches": [
+        {
+            "batch": 1,
+            "range": "Q1-Q25",
+            "addedAt": "2026-02-21T12:37:00+05:30",
+            "count": 25,
+            "hasBookOptions": false
+        },
+        {
+            "batch": 2,
+            "range": "Q26-Q50",
+            "addedAt": "2026-02-21T12:40:00+05:30",
+            "count": 25,
+            "hasBookOptions": false
+        },
+        {
+            "batch": 3,
+            "range": "Q51-Q75",
+            "addedAt": "2026-02-21T12:44:00+05:30",
+            "count": 25,
+            "hasBookOptions": true
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "question": "Ayesha can complete a piece of work in 16 days. Amita can complete the same piece of work in 8 days. If both of them work together in how many days can they complete the same piece of work?",
+            "options": {
+                "A": "3 1/3 days",
+                "B": "5 1/3 days",
+                "C": "6 2/3 days",
+                "D": "4 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 2,
+            "question": "A can complete a certain work in 4 minutes, B in 5 minutes, C in 6 minutes, D in 10 minutes and E in 12 minutes. The average number of units of work completed by them per minute will be:",
+            "options": {
+                "A": "0.16",
+                "B": "0.20",
+                "C": "0.25",
+                "D": "0.12"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 3,
+            "question": "A can finish a work in 18 days and B can do the same work in half the time taken by A. Then, working together, what part of the same work they can finish in a day?",
+            "options": {
+                "A": "1/9",
+                "B": "1/12",
+                "C": "1/6",
+                "D": "1/4"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 4,
+            "question": "A tyre has two punctures. The first puncture alone would have made the tyre flat in 9 minutes and the second alone would have done it in 6 minutes. If air leaks out at a constant rate, how long does it take both the punctures together to make it flat?",
+            "options": {
+                "A": "3 minutes",
+                "B": "3 3/5 minutes",
+                "C": "4 minutes",
+                "D": "4 1/2 minutes"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 5,
+            "question": "A can knit a pair of socks in 3 days. B can knit the same pair in 9 days. If they are knitting together, then in how many days will they knit two pairs of socks?",
+            "options": {
+                "A": "3 days",
+                "B": "4 days",
+                "C": "4 1/2 days",
+                "D": "5 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 6,
+            "question": "A can complete a work in 6 days while B can complete the same work in 12 days. If they work together and complete it, the portion of the work done by A is:",
+            "options": {
+                "A": "1/2",
+                "B": "1/3",
+                "C": "2/3",
+                "D": "3/4"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 7,
+            "question": "A can do a piece of work in 8 days and B can do the same piece of work in 12 days. A and B together complete the same piece of work and get 200 as the combined wages. B's share of the wages will be:",
+            "options": {
+                "A": "100",
+                "B": "120",
+                "C": "60",
+                "D": "80"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 8,
+            "question": "George takes 8 hours to copy a 50-page manuscript while Sonia can copy the same manuscript in 6 hours. How many hours would it take them to copy a 100-page manuscript, if they work together?",
+            "options": {
+                "A": "6 hours",
+                "B": "6 6/7 hours",
+                "C": "7 1/2 hours",
+                "D": "8 hours"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 9,
+            "question": "A and B together complete a piece of work in T days. If A alone completes the work in T + 3 days and B alone completes the piece of work in T + 12 days, what is T?",
+            "options": {
+                "A": "4 days",
+                "B": "5 days",
+                "C": "6 days",
+                "D": "8 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 10,
+            "question": "Reena, Aastha and Shloka can independently complete a piece of work in 6 hours, 4 hours and 12 hours respectively. If they work together, how much time will they take to complete that piece of work?",
+            "options": {
+                "A": "1 hour 30 min",
+                "B": "2 hours",
+                "C": "2 hours 30 min",
+                "D": "3 hours"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 11,
+            "question": "A man can do a job in 15 days. His father takes 20 days and his son finishes it in 25 days. How long will they take to complete the job if they all work together?",
+            "options": {
+                "A": "5 days",
+                "B": "6 days",
+                "C": "Approximately 6.4 days",
+                "D": "7 1/2 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 12,
+            "question": "Amit and Sumit can plough a field in 4 days. Sumit alone can plough the field in 6 days. In how many days will Amit alone plough the field?",
+            "options": {
+                "A": "8 days",
+                "B": "10 days",
+                "C": "12 days",
+                "D": "14 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 13,
+            "question": "Two spinning machines A and B can together produce 3,00,000 metres of cloth in 10 hours. If machine B alone can produce the same amount of cloth in 15 hours, then how much cloth can machine A produce alone in 10 hours?",
+            "options": {
+                "A": "50,000 metres",
+                "B": "1,00,000 metres",
+                "C": "1,50,000 metres",
+                "D": "2,00,000 metres"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 14,
+            "question": "X, Y and Z complete a work in 6 days. X or Y alone can do the same work in 16 days. In how many days Z alone can finish the same work?",
+            "options": {
+                "A": "18 days",
+                "B": "20 days",
+                "C": "24 days",
+                "D": "32 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 15,
+            "question": "A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With the help of C, they did the job in 4 days only. Then, C alone can do the job in:",
+            "options": {
+                "A": "8 days",
+                "B": "9 3/5 days",
+                "C": "10 days",
+                "D": "12 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 16,
+            "question": "A can complete 1/3 of a work in 5 days and B, 2/5 of the work in 10 days. In how many days both A and B together can complete the work?",
+            "options": {
+                "A": "7 1/2 days",
+                "B": "8 days",
+                "C": "9 3/8 days",
+                "D": "10 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 17,
+            "question": "X can do 1/4 of a work in 10 days, Y can do 40% of the work in 40 days and Z can do 1/3 of the work in 13 days. Who will complete the work first?",
+            "options": {
+                "A": "X",
+                "B": "Y",
+                "C": "Z",
+                "D": "X and Z both"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 18,
+            "question": "A man and a boy together can do a certain amount of digging in 40 days. Their speeds in digging are in the ratio of 8 : 5. How many days will the boy take to complete the work if engaged alone?",
+            "options": {
+                "A": "80 days",
+                "B": "96 days",
+                "C": "100 days",
+                "D": "104 days"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 19,
+            "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work. Working together, they can finish the work in 2 days. B can do the work alone in:",
+            "options": {
+                "A": "4 days",
+                "B": "6 days",
+                "C": "8 days",
+                "D": "12 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 20,
+            "question": "Work done by A in one day is half of the work done by B in one day. Work done by B is half of the work done by C in one day. If C alone can complete the work in 7 days, in how many days can A, B and C together complete the work?",
+            "options": {
+                "A": "4 days",
+                "B": "5 days",
+                "C": "7 days",
+                "D": "8 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 21,
+            "question": "Rosa can eat 32 rosogollas in one hour. Her sister Lila needs three hours to eat the same number. How much time will they take to eat 32 rosogollas together?",
+            "options": {
+                "A": "30 minutes",
+                "B": "40 minutes",
+                "C": "45 minutes",
+                "D": "50 minutes"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 22,
+            "question": "A conveyor belt delivers baggage at the rate of 3 tons in 5 minutes and a second conveyor belt delivers baggage at the rate of 1 ton in 2 minutes. How much time will it take to get 33 tons of baggage delivered using both the conveyor belts together?",
+            "options": {
+                "A": "25 minutes",
+                "B": "28 minutes",
+                "C": "30 minutes",
+                "D": "35 minutes"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 23,
+            "question": "A manufacturer builds a machine which will address 500 envelopes in 8 minutes. He wishes to build another machine so that when both are operating together they will address 500 envelopes in 2 minutes. The equation used to find how many minutes x it would require the second machine to address 500 envelopes alone, is:",
+            "options": {
+                "A": "1/8 - 1/2 = 1/x",
+                "B": "1/8 + 1/x = 1/2",
+                "C": "1/x = 1/8 + 1/2",
+                "D": "x/2 + x/8 = 1"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 24,
+            "question": "Computer A takes 3 minutes to process an input while computer B takes 5 minutes. If computers A, B and C can process an average of 14 inputs in one hour, how many minutes does computer C alone take to process one input?",
+            "options": {
+                "A": "4 minutes",
+                "B": "5 minutes",
+                "C": "6 minutes",
+                "D": "8 minutes"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 25,
+            "question": "Bob and David are two typists. One afternoon, they were each given 40 pages for typing. They divided the work equally but David finished 20 minutes before Bob who took 2 hours for the same. The next afternoon, they were again given 77 pages to type. However, this time they decided to divide the work such that they finished typing simultaneously. How many pages did Bob have to type?",
+            "options": {
+                "A": "30 pages",
+                "B": "33 pages",
+                "C": "35 pages",
+                "D": "37 pages"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 26,
+            "question": "P, Q and R are three typists who working simultaneously can type 216 pages in 4 hours. In one hour, R can type as many pages more than Q as Q can type more than P. During a period of five hours, R can type as many pages as P can during seven hours. How many pages does each of them type per hour?",
+            "options": {
+                "A": "14, 17, 23",
+                "B": "15, 18, 21",
+                "C": "16, 18, 20",
+                "D": "12, 18, 24"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 27,
+            "question": "Ronald and Elan are working on an assignment. Ronald takes 6 hours to type 32 pages on a computer, while Elan takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?",
+            "options": {
+                "A": "7 hours 30 minutes",
+                "B": "8 hours",
+                "C": "8 hours 15 minutes",
+                "D": "9 hours"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 28,
+            "question": "Cloth Makers Inc. has p spindles, each of which can produce q metres of cloth on an average in r minutes. If the spindles are made to run with no interruption, then how many hours will it take for 20,000 metres of cloth to be produced?",
+            "options": {
+                "A": "20000r / pq",
+                "B": "20000r / 60pq",
+                "C": "pqr / 20000",
+                "D": "20000 / 60pqr"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 29,
+            "question": "Two workers A and B are engaged to do a work. A working alone takes 8 hours more to complete the job than if both worked together. If B worked alone, he would need 4 1/2 hours more to complete the job than they both working together. What time would they take to do the work together?",
+            "options": {
+                "A": "4 hours",
+                "B": "5 hours",
+                "C": "6 hours",
+                "D": "8 hours"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 30,
+            "question": "Three friends Anne, Bob and Chris work together to do a certain job. The time it takes them to do the work together is 6 hours less than Anne would have take alone, 1 hour less than Bob would have taken alone and half the time Chris would have taken working alone. How long did it take them to complete the job, working together?",
+            "options": {
+                "A": "20 min",
+                "B": "30 min",
+                "C": "40 min",
+                "D": "50 min"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 31,
+            "question": "To do a piece of work, B takes 3 times as long as A and C together and C twice as long as A and B together. If A, B and C together can complete the work in 10 days, how long would A take alone to complete it?",
+            "options": {
+                "A": "20 days",
+                "B": "24 days",
+                "C": "30 days",
+                "D": "36 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 32,
+            "question": "P can complete a work in 12 days working 8 hours a day. Q can complete the same work in 8 days working 10 hours a day. If both P and Q work together, working 8 hours a day, in how many days can they complete the work?",
+            "options": {
+                "A": "4 days",
+                "B": "5 days",
+                "C": "5 5/11 days",
+                "D": "6 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 33,
+            "question": "A and B together can complete a work in 12 days, B and C together can complete the same work in 8 days and A and C together can complete it in 16 days. In total, how many days do A, B and C together take to complete the same work?",
+            "options": {
+                "A": "6 days",
+                "B": "7 5/13 days",
+                "C": "8 days",
+                "D": "9 1/2 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 34,
+            "question": "A can do a piece of work in 4 hours, B and C together in 3 hours, and A and C together in 2 hours. How long will B alone take to do it?",
+            "options": {
+                "A": "8 hours",
+                "B": "10 hours",
+                "C": "12 hours",
+                "D": "14 hours"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 35,
+            "question": "A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in:",
+            "options": {
+                "A": "6 days",
+                "B": "8 days",
+                "C": "10 days",
+                "D": "12 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 36,
+            "question": "A and B together can do a job in 2 days; B and C can do it in 4 days; A and C in 2 2/5 days. The number of days required for A to do the job alone is:",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 37,
+            "question": "A and B can do a piece of work in 5 days; B and C can do it in 7 days; A and C can do it in 4 days. Who among these will take the least time if put to do it alone?",
+            "options": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "Cannot be determined"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 38,
+            "question": "A and B can do a piece of work in 12 days, B and C in 8 days and C and A in 6 days. How long would B take to do the same work alone?",
+            "options": {
+                "A": "24 days",
+                "B": "36 days",
+                "C": "48 days",
+                "D": "56 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 39,
+            "question": "A can build a wall in the same time in which B and C together can do it. If A and B together could do it in 25 days and C alone in 35 days, in what time could B alone do it?",
+            "options": {
+                "A": "125 days",
+                "B": "150 days",
+                "C": "175 days",
+                "D": "200 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 40,
+            "question": "Madhu takes twice as much time as Uma to complete a work and Rahul does it in the same time as Madhu and Uma together. If all three working together can finish the work in 6 days, then the time taken by Madhu to finish the work is:",
+            "options": {
+                "A": "24 days",
+                "B": "30 days",
+                "C": "36 days",
+                "D": "42 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 41,
+            "question": "A takes 5 days more than B to do a certain job and 9 days more than C; A and B together can do the job in the same time as C. How many days A would take to do it?",
+            "options": {
+                "A": "10",
+                "B": "12",
+                "C": "15",
+                "D": "18"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 42,
+            "question": "A works twice as fast as B. If B can complete a work in 12 days independently, the number of days in which A and B can together finish the work is:",
+            "options": {
+                "A": "3 days",
+                "B": "4 days",
+                "C": "6 days",
+                "D": "8 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 43,
+            "question": "A is twice as good a workman as B. If they work together, they can complete a job in 18 days. If A alone does the job, in how many days he will complete the job?",
+            "options": {
+                "A": "24 days",
+                "B": "27 days",
+                "C": "30 days",
+                "D": "36 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 44,
+            "question": "David and Michael together can finish a job in 4 days 19 hrs 12 min. If David works at two-thirds Michael's speed, how long does it take Michael alone to finish the same job?",
+            "options": {
+                "A": "6 days",
+                "B": "8 days",
+                "C": "10 days",
+                "D": "12 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 45,
+            "question": "A is thrice as good a workman as B and so takes 60 days less than B for doing a job. The time in which they can do the job together is:",
+            "options": {
+                "A": "20 days",
+                "B": "22 1/2 days",
+                "C": "25 days",
+                "D": "30 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 46,
+            "question": "A and B can do a job together in 7 days. A is 1 3/4 times as efficient as B. The same job can be done by A alone in:",
+            "options": {
+                "A": "9 days",
+                "B": "11 days",
+                "C": "13 days",
+                "D": "15 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 47,
+            "question": "Kamal can do a work in 15 days. Bimal is 50% more efficient than Kamal. The number of days, Bimal will take to do the same piece of work, is:",
+            "options": {
+                "A": "8",
+                "B": "10",
+                "C": "12",
+                "D": "15"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 48,
+            "question": "A does 20% less work than B. If A can complete a piece of work in 7 1/2 hours, then B can do it in:",
+            "options": {
+                "A": "5 hours",
+                "B": "6 hours",
+                "C": "7 hours",
+                "D": "8 hours"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 49,
+            "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
+            "options": {
+                "A": "11 days",
+                "B": "13 days",
+                "C": "15 days",
+                "D": "17 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 50,
+            "question": "A can do a piece of work in 10 days working 8 hours per day. If B is two-thirds as efficient as A, then in how many days can B alone do the same piece of work, working 5 hours per day?",
+            "options": {
+                "A": "18",
+                "B": "20",
+                "C": "24",
+                "D": "28"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 51,
+            "question": "A does half as much work as B in one-sixth of the time. If together they take 10 days to complete a work, how much time shall B alone take to do it?",
+            "options": {
+                "A": "30 days",
+                "B": "40 days",
+                "C": "50 days",
+                "D": "70 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 52,
+            "question": "A is 50% as efficient as B. C does half of the work done by A and B together. If C alone does the work in 40 days, then A, B and C together can do the work in:",
+            "options": {
+                "A": "13 1/3 days",
+                "B": "15 days",
+                "C": "20 days",
+                "D": "30 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 53,
+            "question": "Two workers A and B working together completed a job in 5 days. If A worked twice as efficiently as he actually did and B worked 1/3 as efficiently as he actually did, the work would have been completed in 3 days. A alone could complete the work in:",
+            "options": {
+                "A": "5 1/4 days",
+                "B": "6 1/4 days",
+                "C": "7 1/2 days",
+                "D": "None of these"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 54,
+            "question": "A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:",
+            "options": {
+                "A": "1/4",
+                "B": "1/10",
+                "C": "7/15",
+                "D": "8/15"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 55,
+            "question": "A can do a piece of work in 15 days, which B can do in 10 days. B worked at it for 8 days. A can finish the remaining work in:",
+            "options": {
+                "A": "2 days",
+                "B": "3 days",
+                "C": "5 days",
+                "D": "10 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 56,
+            "question": "A and B can complete a work in 18 days and 15 days respectively. They started doing the work together but after 3 days A had to leave and B alone completed the remaining work. The whole work was completed in:",
+            "options": {
+                "A": "9 3/4 days",
+                "B": "10 1/4 days",
+                "C": "12 1/2 days",
+                "D": "12 3/4 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 57,
+            "question": "A, B and C can separately do a work in 12, 15 and 20 days respectively. They started to work together but C left after 2 days. The remaining work will be finished in:",
+            "options": {
+                "A": "4 days",
+                "B": "5 days",
+                "C": "6 days",
+                "D": "15 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 58,
+            "question": "A can complete a piece of work in 18 days, B in 20 days and C in 30 days. B and C together start the work and are forced to leave after 2 days. The time taken by A alone to complete the remaining work is:",
+            "options": {
+                "A": "10 days",
+                "B": "12 days",
+                "C": "15 days",
+                "D": "16 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 59,
+            "question": "A can complete a piece of work in 10 days, B in 15 days and C in 20 days. A and C worked together for 2 days and then A was replaced by B. In how many days, altogether, was the work completed?",
+            "options": {
+                "A": "6",
+                "B": "8",
+                "C": "10",
+                "D": "12"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 60,
+            "question": "A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 a.m. while machine P is closed at 11 a.m. and the remaining two machines complete the work. Approximately at what time will the work be finished?",
+            "options": {
+                "A": "11 : 30 a.m.",
+                "B": "12 noon",
+                "C": "12 : 30 p.m.",
+                "D": "1 p.m."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 61,
+            "question": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and A in 20 days. They all work together for 10 days when B and C leave. How many days more will A take to finish the work?",
+            "options": {
+                "A": "18 days",
+                "B": "24 days",
+                "C": "30 days",
+                "D": "36 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 62,
+            "question": "X and Y can do a piece of work in 20 days and 12 days respectively. X started the work alone and then after 4 days Y joined him till the completion of the work. How long did the work last?",
+            "options": {
+                "A": "6 days",
+                "B": "10 days",
+                "C": "15 days",
+                "D": "20 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 63,
+            "question": "A completes 7/10 of a work in 15 days. Then he completes the remaining work with the help of B in 4 days. The time required for A and B together to complete the entire work is:",
+            "options": {
+                "A": "8 1/4 days",
+                "B": "10 1/2 days",
+                "C": "12 2/3 days",
+                "D": "13 1/3 days"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 64,
+            "question": "A man and a boy can do a piece of work in 24 days. If the man works alone for the last 6 days, it is completed in 26 days. How long would the boy take to do it alone?",
+            "options": {
+                "A": "20 days",
+                "B": "24 days",
+                "C": "36 days",
+                "D": "72 days"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 65,
+            "question": "A and B can together finish a work in 30 days. They worked together for 20 days and then B left. After another 20 days, A finished the remaining work. In how many days A alone can finish the job?",
+            "options": {
+                "A": "40",
+                "B": "50",
+                "C": "54",
+                "D": "60"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 66,
+            "question": "X can do a piece of work in 40 days. He works at it for 8 days and then Y finished it in 16 days. How long will they together take to complete the work?",
+            "options": {
+                "A": "13 1/3 days",
+                "B": "15 days",
+                "C": "20 days",
+                "D": "56 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 67,
+            "question": "A, B and C together can complete a piece of work in 10 days. All the three started working at it together and after 4 days A left. Then B and C together completed the work in 10 more days. A alone could complete the work in:",
+            "options": {
+                "A": "15 days",
+                "B": "16 days",
+                "C": "25 days",
+                "D": "50 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 68,
+            "question": "A does 4/5 of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
+            "options": {
+                "A": "23 days",
+                "B": "37 days",
+                "C": "37 1/2 days",
+                "D": "40 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 69,
+            "question": "A and B together can do a piece of work in 30 days. A having worked for 16 days, B finishes the remaining work alone in 44 days. In how many days shall B finish the whole work alone?",
+            "options": {
+                "A": "30 days",
+                "B": "40 days",
+                "C": "60 days",
+                "D": "70 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 70,
+            "question": "A and B together can do a piece of work in 12 days, which B and C together can do in 16 days. After A has been working at it for 5 days and B for 7 days, C finishes it in 13 days. In how many days C alone will do the work?",
+            "options": {
+                "A": "16",
+                "B": "24",
+                "C": "36",
+                "D": "48"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 71,
+            "question": "A and B can do a piece of work in 28 and 35 days respectively. They began to work together but A leaves after some time and B completed the remaining work in 17 days. After how many days did A leave?",
+            "options": {
+                "A": "7 5/9 days",
+                "B": "8 days",
+                "C": "9 days",
+                "D": "14 2/5 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 72,
+            "question": "A can build up a wall in 8 days while B can break it in 3 days. A has worked for 4 days and then B joined to work with A for another 2 days only. In how many days will A alone build up the remaining part of the wall?",
+            "options": {
+                "A": "6 1/3 days",
+                "B": "7 days",
+                "C": "7 1/3 days",
+                "D": "13 1/3 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 73,
+            "question": "Anuj and Manoj can together paint their house in 30 days. After working for 20 days, Anuj has to go out and Manoj finishes the remaining work in the next 30 days. If Manoj had gone away after 20 days instead of Anuj, then Anuj would have completed the remaining work in:",
+            "options": {
+                "A": "15 days",
+                "B": "20 days",
+                "C": "25 days",
+                "D": "35 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 74,
+            "question": "A started a work and left after working for 2 days. Then B was called and he finished the work in 9 days. Had A left the work after working for 3 days, B would have finished the remaining work in 6 days. In how many days can each of them, working alone, finish the whole work?",
+            "options": {
+                "A": "2.5 days, 7.5 days",
+                "B": "5 days, 8.5 days",
+                "C": "5 days, 15 days",
+                "D": "None of these"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 75,
+            "question": "Working together, Asha and Sudha can complete an assigned task in 20 days. However, if Asha worked alone and completed half the work and then Sudha takes over the task and completes the second half of the task, the task will be completed in 45 days. How long will Asha take to complete the task if she worked alone? Assume that Sudha is more efficient than Asha.",
+            "options": {
+                "A": "25 days",
+                "B": "30 days",
+                "C": "60 days",
+                "D": "65 days"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "sessions": [
+    {
+      "sessionNumber": 1,
+      "title": "Sunflower Test Lesson",
+      "description": "A quick test to verify Learn tab works with images and questions.",
+      "createdAt": "2026-03-05T12:00:00.000Z",
+      "updatedAt": "2026-03-05T12:00:00.000Z"
+    },
+    {
+      "sessionNumber": 2,
+      "title": "Markdown Cheat Sheet",
+      "description": "Quick reference for all formatting options available in your notes!",
+      "createdAt": "2026-03-05T16:00:00.000Z",
+      "updatedAt": "2026-03-05T16:00:00.000Z"
+    }
+  ]
+}

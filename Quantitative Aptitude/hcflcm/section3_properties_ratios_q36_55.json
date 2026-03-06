@@ -1,0 +1,287 @@
+{
+    "topic": "HCF and LCM",
+    "section": "Section III: Properties, Ratios, and Product Rules",
+    "questionRange": "Q36-Q55",
+    "questions": [
+        {
+            "qid": "hcflcm_036",
+            "question": "Two numbers are in the ratio of 15:11. If their H.C.F. is 13, find the numbers.",
+            "options": {
+                "A": "195, 143",
+                "B": "150, 110",
+                "C": "182, 130",
+                "D": "130, 110"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_037",
+            "question": "Two numbers are in the ratio of 3:4. Their L.C.M. is 84. Find the numbers.",
+            "options": {
+                "A": "12, 16",
+                "B": "15, 20",
+                "C": "21, 28",
+                "D": "24, 32"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "S.S.C. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_038",
+            "question": "The H.C.F. of two numbers is 11 and their L.C.M. is 693. If one of the numbers is 77, find the other.",
+            "options": {
+                "A": "88",
+                "B": "99",
+                "C": "121",
+                "D": "66"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "P.C.S. 2009",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_039",
+            "question": "The sum of two numbers is 462 and their highest common factor is 22. What is the minimum number of pairs that satisfy these conditions?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "8"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "M.A.T. 2004",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_040",
+            "question": "The sum and difference of the L.C.M. and H.C.F. of two numbers are 592 and 518 respectively. If the sum of the numbers be 296, find the numbers.",
+            "options": {
+                "A": "111, 185",
+                "B": "120, 176",
+                "C": "148, 148",
+                "D": "100, 196"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "Section Officer's 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_041",
+            "question": "The H.C.F. of two numbers, each having three digits is 17 and their L.C.M. is 714. Find the sum of the numbers.",
+            "options": {
+                "A": "200",
+                "B": "221",
+                "C": "238",
+                "D": "255"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "C.P.O. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_042",
+            "question": "If A, B and C are three numbers, such that the L.C.M. of A and B is B and the L.C.M of B and C is C, then the L.C.M. of A, B and C is:",
+            "options": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "(A+B+C)/3"
+            },
+            "correctAnswer": "C",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_043",
+            "question": "H.C.F. of 3240, 3600 and a third number is 36 and their L.C.M. is 2⁴ × 3⁵ × 5² × 7². The third number is:",
+            "options": {
+                "A": "2² × 3⁵ × 7²",
+                "B": "2² × 5³ × 7²",
+                "C": "2⁵ × 5² × 7²",
+                "D": "2³ × 3⁵ × 7²"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "M.A.T. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_044",
+            "question": "Three numbers are in the ratio 1:2:3 and their H.C.F. is 12. The numbers are:",
+            "options": {
+                "A": "4, 8, 12",
+                "B": "5, 10, 15",
+                "C": "10, 20, 30",
+                "D": "12, 24, 36"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_045",
+            "question": "The ratio of two numbers is 3:4 and their H.C.F. is 4. Their L.C.M. is:",
+            "options": {
+                "A": "12",
+                "B": "16",
+                "C": "24",
+                "D": "48"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_046",
+            "question": "The sum of two numbers is 216 and their H.C.F. is 27. The numbers are:",
+            "options": {
+                "A": "27, 189",
+                "B": "81, 189",
+                "C": "108, 108",
+                "D": "154, 162"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_047",
+            "question": "The sum of two numbers is 528 and their H.C.F. is 33. The number of pairs of numbers satisfying the above conditions is:",
+            "options": {
+                "A": "4",
+                "B": "6",
+                "C": "8",
+                "D": "12"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_048",
+            "question": "The number of number-pairs lying between 40 and 100 with their H.C.F. as 15 is:",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_049",
+            "question": "The H.C.F. of two numbers is 12 and their difference is 12. The numbers are:",
+            "options": {
+                "A": "66, 78",
+                "B": "70, 82",
+                "C": "94, 106",
+                "D": "84, 96"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_050",
+            "question": "The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:",
+            "options": {
+                "A": "101",
+                "B": "107",
+                "C": "111",
+                "D": "185"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Product Rule (HCF x LCM)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_051",
+            "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "A.A.O. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_052",
+            "question": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:",
+            "options": {
+                "A": "75",
+                "B": "81",
+                "C": "85",
+                "D": "89"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_053",
+            "question": "The ratio of two numbers is 13:15 and their L.C.M. is 39780. The numbers are:",
+            "options": {
+                "A": "884, 1020",
+                "B": "884, 1040",
+                "C": "670, 1340",
+                "D": "2652, 3060"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "P.C.S. 2009",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_054",
+            "question": "Three numbers are in the ratio of 3:4:5 and their L.C.M. is 2400. Their H.C.F. is:",
+            "options": {
+                "A": "40",
+                "B": "80",
+                "C": "120",
+                "D": "200"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_055",
+            "question": "The L.C.M. and ratio of four numbers are 630 and 2:3:5:7 respectively. The difference between the greatest and least numbers is:",
+            "options": {
+                "A": "6",
+                "B": "14",
+                "C": "15",
+                "D": "21"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "I.A.M. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        }
+    ]
+}

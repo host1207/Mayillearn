@@ -1,0 +1,214 @@
+{
+    "batch": 6,
+    "range": "Q126-Q133 (Objective) + Q1-Q21 (Data Sufficiency)",
+    "hasBookOptions": true,
+    "addedAt": "2026-02-21T12:53:00+05:30",
+    "sections": [
+        {
+            "type": "Objective Type",
+            "questions": [
+                {
+                    "id": 126,
+                    "question": "25 men with 10 boys can do in 6 days as much work as 21 men with 30 boys can do in 5 days. How many boys must help 40 men to do the same work in 4 days?",
+                    "options": {
+                        "A": "5",
+                        "B": "10",
+                        "C": "20",
+                        "D": "40"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "id": 127,
+                    "question": "40 men can complete a piece of work in 15 days. 20 more men join them after 5 days they start doing work. How many days will be required by them to finish the remaining work?",
+                    "options": {
+                        "A": "7 2/3 days",
+                        "B": "6 1/5 days",
+                        "C": "8 1/4 days",
+                        "D": "6 2/3 days"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": 128,
+                    "question": "12 men can do a piece of work in 24 days. How many days are needed to complete the work, if 8 men do this work?",
+                    "options": {
+                        "A": "28",
+                        "B": "36",
+                        "C": "48",
+                        "D": "52"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "id": 129,
+                    "question": "A can do in one day three times the work done by B in one day. They together finish 2/5 of the work in 9 days. The number of days by which B can do the work alone is",
+                    "options": {
+                        "A": "90 days",
+                        "B": "120 days",
+                        "C": "100 days",
+                        "D": "30 days"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "id": 130,
+                    "question": "A, B and C can complete a piece of work in 24, 5 and 12 days respectively. Working together, they will complete the same work in",
+                    "options": {
+                        "A": "7/24 days",
+                        "B": "3 3/7 days",
+                        "C": "4 days",
+                        "D": "3 13/40 days"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": 131,
+                    "question": "X can do a piece of work in 24 days. When he had worked for 4 days, Y joined him. If complete work was finished in 16 days, Y can alone finish that work in",
+                    "options": {
+                        "A": "18 days",
+                        "B": "27 days",
+                        "C": "36 days",
+                        "D": "42 days"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "id": 132,
+                    "question": "6 men can complete a piece of work in 12 days, 8 women can complete the same piece of work in 18 days and 18 children can do it in 10 days. 4 men, 12 women and 20 children do the work for 2 days. If the remaining work be completed by men only in 1 day, how many men will be required?",
+                    "options": {
+                        "A": "36",
+                        "B": "24",
+                        "C": "18",
+                        "D": "Cannot be determined"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "id": 133,
+                    "question": "16 men can finish a piece of work in 49 days. 14 men started working and in 8 days they could finish certain amount of work. If it is required to finish the remaining work in 24 days. How many more men should be added to the existing workforce?",
+                    "options": {
+                        "A": "21",
+                        "B": "28",
+                        "C": "16",
+                        "D": "14"
+                    },
+                    "correctAnswer": "D"
+                }
+            ]
+        },
+        {
+            "type": "Data Sufficiency",
+            "directions_1_11": "Determine which statements are required to answer the question. (a) Statement I alone is sufficient; II alone is not. (b) Statement II alone is sufficient; I alone is not. (c) Either Statement I or II alone is sufficient. (d) Both Statements I and II together are not sufficient. (e) Both Statements I and II together are necessary.",
+            "directions_12_19": "Decide which of the statement(s) is/are necessary to answer the question.",
+            "directions_20_21": "Decide whether any information provided in the statement(s) is/are redundant and can be dispensed with.",
+            "questions": [
+                {
+                    "id": "DS1",
+                    "question": "Will Q take more than 8 hours to complete the job alone? I. P works faster than Q. II. P and Q can together finish the job in 5 hours.",
+                    "correctAnswer": "E"
+                },
+                {
+                    "id": "DS2",
+                    "question": "In how many days can Mohan alone complete the work? I. Mohan and Prakash together can complete the work in 17 days. II. Rakesh works double as fast as Mohan and can alone complete the work in 10 days.",
+                    "correctAnswer": "B"
+                },
+                {
+                    "id": "DS3",
+                    "question": "In how many days can B alone complete the work? I. B and C together can complete the work in 8 days. II. A and B together can complete the work in 12 days.",
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": "DS4",
+                    "question": "How long will Machine Y, working alone, take to produce x candles? I. Machine X produces x candles in 5 minutes. II. Machine X and Machine Y working at the same time produce x candles in 2 minutes.",
+                    "correctAnswer": "E"
+                },
+                {
+                    "id": "DS5",
+                    "question": "B alone can complete a work in 12 days. How many days will A, B and C together take to complete the work? I. A and B together can complete the work in 3 days. II. B and C together can complete the work in 6 days.",
+                    "correctAnswer": "E"
+                },
+                {
+                    "id": "DS6",
+                    "question": "Is it cheaper to employ X to do a certain job than to employ Y? I. X is paid 20% more per hour than Y, but Y takes 2 hours longer to complete the job. II. X is paid 80 per hour.",
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": "DS7",
+                    "question": "A and B together can complete a task in 7 days. B alone can do it in 20 days. What part of the work was carried out by A? I. A completed the job alone after A and B worked together for 5 days. II. Part of the work done by A could have been done by B and C together in 6 days.",
+                    "correctAnswer": "A"
+                },
+                {
+                    "id": "DS8",
+                    "question": "Who is the slowest among the three workers P, Q and R? I. P and Q together fence a garden of perimeter 800 m in 11 hours. II. P, Q and R together can fence a garden of perimeter 800 m in 5 hours.",
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": "DS9",
+                    "question": "How many women can complete a piece of work in 15 days? I. 12 women can complete the same piece of work in 20 days. II. 10 men can complete the same piece of work in 12 days.",
+                    "correctAnswer": "A"
+                },
+                {
+                    "id": "DS10",
+                    "question": "In how many days 10 men will finish the work while working together? I. Only 12 women can finish the work in 16 days. II. 4 men and 6 women can finish the work in 16 days.",
+                    "correctAnswer": "E"
+                },
+                {
+                    "id": "DS11",
+                    "question": "How many women can complete the work in 10 days? I. Work done by one woman in one day is 75% of the work done by one man in one day. II. Work done by one woman in one day is 150% of the work done by one child in one day.",
+                    "correctAnswer": "D"
+                },
+                {
+                    "id": "DS12",
+                    "question": "In how many days can A and B working together complete a job? I. A alone can complete the job in 30 days. II. B alone can complete the job in 40 days. III. B takes 10 days more than A to complete the job.",
+                    "correctAnswer": "Any two of the three"
+                },
+                {
+                    "id": "DS13",
+                    "question": "In how many days A alone can complete a work? I. A and B can complete the work in 8 days. II. B takes twice the time taken by A in completing the work. III. A and B together take 1/3 of the time taken by B alone in completing the work.",
+                    "correctAnswer": "None of these"
+                },
+                {
+                    "id": "DS14",
+                    "question": "In how many days can the work be completed by A and B together? I. A alone can complete the work in 8 days. II. If A alone works for 5 days and B alone works for 6 days, the work gets completed. III. B alone can complete the work in 16 days.",
+                    "correctAnswer": "Any two of the three"
+                },
+                {
+                    "id": "DS15",
+                    "question": "In how many days will B alone complete the work? I. A and B together can complete the work in 8 days. II. B and C together can complete the work in 10 days. III. A and C together can complete the work in 12 days.",
+                    "correctAnswer": "All I, II and III"
+                },
+                {
+                    "id": "DS16",
+                    "question": "How many workers are required for completing the construction work in 10 days? I. 20% of the work can be completed by 8 workers in 8 days. II. 20 workers can complete the work in 16 days. III. One-eighth of the work can be completed by 8 workers in 5 days.",
+                    "correctAnswer": "Any one of the three"
+                },
+                {
+                    "id": "DS17",
+                    "question": "In how many days can 16 men and 8 women together complete the piece of work? I. 8 men complete the piece of work in 10 days. II. 16 women complete the piece of work in 10 days. III. 5 women take 32 days to complete the piece of work.",
+                    "correctAnswer": "Only I and either II or III"
+                },
+                {
+                    "id": "DS18",
+                    "question": "In how many days can the work be done by 9 men and 15 women? I. 6 men and 5 women can complete the work in 6 days. II. 3 men and 4 women can complete the work in 10 days. III. 18 men and 15 women can complete the work in 2 days.",
+                    "correctAnswer": "Any two of the three"
+                },
+                {
+                    "id": "DS19",
+                    "question": "In how many days can 10 women finish a work? I. 10 men can complete the work in 6 days. II. 10 men and 10 women together can complete the work in 3 3/7 days. III. If 10 men work for 3 days and thereafter 10 women replace them, the remaining work is completed in 4 days.",
+                    "correctAnswer": "Any two of the three"
+                },
+                {
+                    "id": "DS20",
+                    "question": "In how many days can the work be completed by A, B and C together? I. A and B together can complete the work in 6 days. II. B and C together can complete the work in 3 3/4 days. III. A and C together can complete the work in 3 1/3 days.",
+                    "correctAnswer": "Information in all three statements is necessary"
+                },
+                {
+                    "id": "DS21",
+                    "question": "8 men and 14 women are working together in a field. After working for 3 days, 5 men and 8 women leave the work. How many more days will be required to complete the work? I. 19 men and 12 women together can complete the work in 18 days. II. 16 men can complete two-thirds of the work in 16 days. III. In a day, the work done by three men is equal to the work done by four women.",
+                    "correctAnswer": "I or II or III"
+                }
+            ]
+        }
+    ]
+}

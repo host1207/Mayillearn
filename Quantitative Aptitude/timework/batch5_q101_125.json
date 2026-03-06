@@ -1,0 +1,295 @@
+{
+    "batch": 5,
+    "range": "Q101-Q125",
+    "hasBookOptions": true,
+    "addedAt": "2026-02-21T12:46:00+05:30",
+    "questions": [
+        {
+            "id": 101,
+            "question": "A contractor undertakes to do a piece of work in 40 days. He engages 100 men at the beginning and 100 more after 35 days and completes the work in stipulated time. If he had not engaged the additional men, how many days behind the schedule the work should have been finished?",
+            "options": {
+                "A": "5",
+                "B": "6",
+                "C": "7",
+                "D": "8"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 102,
+            "question": "Seven men can complete a work in 12 days. They started the work and after 5 days, two men left. In how many days will the work be completed by the remaining men?",
+            "options": {
+                "A": "5",
+                "B": "6",
+                "C": "7",
+                "D": "8",
+                "E": "None of these"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "id": 103,
+            "question": "12 men complete a work in 9 days. After they have worked for 6 days, 6 more men join them. How many days will they take to complete the remaining work?",
+            "options": {
+                "A": "2 days",
+                "B": "3 days",
+                "C": "4 days",
+                "D": "5 days",
+                "E": "None of these"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 104,
+            "question": "Three men, four women and six children can complete a work in seven days. A woman does double the work a man does and a child does half the work a man does. How many women alone can complete this work in 7 days?",
+            "options": {
+                "A": "7",
+                "B": "8",
+                "C": "12",
+                "D": "Cannot be determined",
+                "E": "None of these"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 105,
+            "question": "A man, a woman and a boy can complete a job in 3, 4 and 12 days respectively. How many boys must assist 1 man and 1 woman to complete the job in 1/4 of a day?",
+            "options": {
+                "A": "1",
+                "B": "4",
+                "C": "19",
+                "D": "41"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 106,
+            "question": "10 men and 15 women together can complete a work in 6 days. It takes 100 days for one man alone to complete the same work. How many days will be required for one woman alone to complete the same work?",
+            "options": {
+                "A": "90",
+                "B": "125",
+                "C": "145",
+                "D": "150",
+                "E": "None of these"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "id": 107,
+            "question": "A child can do a piece of work 15 hours slower than a woman. The child works for 18 hours on the job and then the woman takes charge for 6 hours. In this manner, 3/5 of the work can be completed. To complete the job now, how much time will the woman take?",
+            "options": {
+                "A": "12 hours",
+                "B": "18 hours",
+                "C": "24 hours",
+                "D": "30 hours"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 108,
+            "question": "A group of workers having equal efficiency can complete a job in 4 days. But it so happened that every alternate day starting from the second day, 3 workers are withdrawn from the job and every alternate day starting from the third day, 2 workers are added to the group. If it now takes 7 days to complete the job, find the number of workers who started the job.",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "8"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 109,
+            "question": "A man, a woman and a boy can do a piece of work in 6, 9 and 18 days respectively. How many boys must assist one man and one woman to do the work in 1 day?",
+            "options": {
+                "A": "5",
+                "B": "6",
+                "C": "9",
+                "D": "13"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 110,
+            "question": "If 3 men or 9 boys can finish a piece of work in 21 days, in how many days can 5 men and 6 boys together do the same piece of work?",
+            "options": {
+                "A": "8 days",
+                "B": "12 days",
+                "C": "14 days",
+                "D": "Cannot be determined",
+                "E": "None of these"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "id": 111,
+            "question": "If 2 men or 6 women or 4 boys can finish a work in 99 days, how many days will one man, one woman and one boy together take to finish the same work?",
+            "options": {
+                "A": "44 days",
+                "B": "54 days",
+                "C": "64 days",
+                "D": "104 days",
+                "E": "None of these"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "id": 112,
+            "question": "8 men can complete a piece of work in 20 days. 8 women can complete the same work in 32 days. In how many days will 5 men and 8 women together complete the same work?",
+            "options": {
+                "A": "10 days",
+                "B": "12 days",
+                "C": "14 days",
+                "D": "16 days",
+                "E": "None of these"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 113,
+            "question": "18 men can complete a piece of work in 63 days. 9 women take 189 days to complete the same piece of work. How many days will 4 men, 9 women and 12 children together take to complete the piece of work if 7 children alone can complete the piece of work in 486 days?",
+            "options": {
+                "A": "54",
+                "B": "63",
+                "C": "76",
+                "D": "81",
+                "E": "None of these"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 114,
+            "question": "16 men can finish a work in 24 days and 48 boys can finish the same work in 16 days. 12 men started the work and after 4 days 12 boys joined them. In how many days can they finish the remaining work?",
+            "options": {
+                "A": "6",
+                "B": "12",
+                "C": "16",
+                "D": "None of these"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 115,
+            "question": "12 men can complete a piece of work in 4 days, while 15 women can complete the same work in 4 days. 6 men start working on the job and after working for 2 days, all of them stopped working. How many women should be put on the job to complete the remaining work, if it is to be completed in 3 days?",
+            "options": {
+                "A": "15",
+                "B": "18",
+                "C": "22",
+                "D": "Data inadequate",
+                "E": "None of these"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 116,
+            "question": "Twelve children take sixteen days to complete a work which can be completed by eight adults in twelve days. Sixteen adults started working and after three days ten adults left and four children joined them. How many days will they take to complete the remaining work?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "6",
+                "D": "8",
+                "E": "None of these"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 117,
+            "question": "Sixteen men can complete a work in twelve days. Twenty-four children can complete the same work in eighteen days. Twelve men and eight children started working and after eight days three more children joined them. How many days will they now take to complete the remaining work?",
+            "options": {
+                "A": "2 days",
+                "B": "4 days",
+                "C": "6 days",
+                "D": "8 days",
+                "E": "None of these"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 118,
+            "question": "Twenty-four men can complete a work in sixteen days. Thirty-two women can complete the same work in twenty-four days. Sixteen men and sixteen women started working and worked for twelve days. How many more men are to be added to complete the remaining work in 2 days?",
+            "options": {
+                "A": "16",
+                "B": "24",
+                "C": "36",
+                "D": "48",
+                "E": "None of these"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 119,
+            "question": "5 men and 2 boys working together can do four times as much work as a man and a boy. Working capacities of a man and a boy are in the ratio:",
+            "options": {
+                "A": "1 : 2",
+                "B": "2 : 1",
+                "C": "1 : 3",
+                "D": "3 : 1"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 120,
+            "question": "If 12 men and 16 boys can do a piece of work in 5 days; 13 men and 24 boys can do it in 4 days, then the ratio of the daily work done by a man to that of a boy is",
+            "options": {
+                "A": "2 : 1",
+                "B": "3 : 1",
+                "C": "3 : 2",
+                "D": "5 : 4"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 121,
+            "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+            "options": {
+                "A": "35",
+                "B": "40",
+                "C": "45",
+                "D": "50"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 122,
+            "question": "4 men and 10 women were put on a work. They completed 1/3 of the work in 4 days. After this 2 men and 2 women were increased. They completed 2/9 more of the work in 2 days. If the remaining work is to be completed in 3 days, then how many more women must be increased?",
+            "options": {
+                "A": "8",
+                "B": "32",
+                "C": "50",
+                "D": "55"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 123,
+            "question": "One man, 3 women and 4 boys can do a piece of work in 96 hours, 2 men and 8 boys can do it in 80 hours, 2 men and 3 women can do it in 120 hours. 5 men and 12 boys can do it in:",
+            "options": {
+                "A": "39 1/11 hours",
+                "B": "42 7/11 hours",
+                "C": "43 7/11 hours",
+                "D": "44 hours"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 124,
+            "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be",
+            "options": {
+                "A": "4 days",
+                "B": "5 days",
+                "C": "6 days",
+                "D": "7 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 125,
+            "question": "If 5 men and 3 women can reap 18 acre of crop in 4 days; 3 men and 2 women can reap 22 acre of crop in 8 days, then how many men are required to join 21 women to reap 54 acre of crop in 6 days?",
+            "options": {
+                "A": "5",
+                "B": "6",
+                "C": "10",
+                "D": "12"
+            },
+            "correctAnswer": "A"
+        }
+    ]
+}

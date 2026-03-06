@@ -1,0 +1,153 @@
+/* ============================================================
+   MayilQ Study Notes - Obsidian CSS Snippet
+   Place this file in: [Your Vault]/.obsidian/snippets/mayilq.css
+   Then go to Settings → Appearance → CSS Snippets → Enable it
+   ============================================================ */
+
+/* ===== DARK THEME TO MATCH THE APP ===== */
+.theme-dark {
+    --background-primary: #0d1117;
+    --background-secondary: #161b22;
+    --background-modifier-border: rgba(255, 255, 255, 0.1);
+    --text-normal: rgba(255, 255, 255, 0.88);
+    --text-muted: rgba(255, 255, 255, 0.55);
+    --text-accent: #f59e0b;
+    --interactive-accent: #f59e0b;
+    --background-primary-alt: #161b22;
+}
+
+/* ===== HEADINGS ===== */
+.markdown-preview-view h1 {
+    color: #f59e0b;
+    font-size: 1.8em;
+    border-bottom: 2px solid rgba(245, 158, 11, 0.3);
+    padding-bottom: 6px;
+}
+
+.markdown-preview-view h2 {
+    color: #e2b96f;
+    font-size: 1.4em;
+}
+
+.markdown-preview-view h3 {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1.15em;
+}
+
+.markdown-preview-view h4 {
+    color: #d4a96a;
+    font-size: 1em;
+}
+
+/* ===== BLOCKQUOTES (golden tip boxes) ===== */
+.markdown-preview-view blockquote {
+    border-left: 4px solid #f59e0b !important;
+    background: rgba(245, 158, 11, 0.08) !important;
+    border-radius: 0 8px 8px 0;
+    padding: 10px 16px;
+    color: rgba(255, 255, 255, 0.85);
+    font-style: normal;
+}
+
+/* ===== TABLES ===== */
+.markdown-preview-view table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 16px 0;
+}
+
+.markdown-preview-view th {
+    background: rgba(245, 158, 11, 0.15);
+    color: #f59e0b;
+    padding: 10px 14px;
+    border-bottom: 2px solid rgba(245, 158, 11, 0.3);
+    text-align: left;
+    font-weight: 600;
+}
+
+.markdown-preview-view td {
+    padding: 8px 14px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.markdown-preview-view tr:hover td {
+    background: rgba(255, 255, 255, 0.03);
+}
+
+/* ===== INLINE CODE (formulas) ===== */
+.markdown-preview-view code {
+    background: rgba(245, 158, 11, 0.12) !important;
+    color: #f59e0b !important;
+    padding: 2px 8px !important;
+    border-radius: 4px !important;
+    font-size: 13px;
+    font-family: 'Fira Code', monospace;
+}
+
+/* ===== QUIZ CODE BLOCKS — renders as a quiz card! ===== */
+.markdown-preview-view pre:has(.language-quiz),
+.markdown-source-view .HyperMD-codeblock.cm-line:not(.HyperMD-codeblock-bg) {
+    background: rgba(245, 158, 11, 0.05);
+}
+
+.markdown-preview-view .language-quiz {
+    background: rgba(245, 158, 11, 0.05) !important;
+    border: 1px solid rgba(245, 158, 11, 0.3) !important;
+    border-radius: 12px !important;
+    padding: 18px !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-family: inherit !important;
+    font-size: 14px !important;
+    line-height: 1.7 !important;
+    white-space: pre-wrap !important;
+}
+
+/* Label the quiz block */
+.markdown-preview-view pre:has(.language-quiz)::before {
+    content: "🧠 Quiz Block";
+    display: block;
+    color: #f59e0b;
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 8px;
+    letter-spacing: 0.05em;
+}
+
+/* ===== HIGHLIGHTS (==text==) as yellow glow ===== */
+.markdown-preview-view mark {
+    background: rgba(245, 158, 11, 0.3) !important;
+    color: #fff !important;
+    padding: 1px 6px !important;
+    border-radius: 4px !important;
+}
+
+/* ===== HORIZONTAL RULES ===== */
+.markdown-preview-view hr {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    margin: 24px 0;
+}
+
+/* ===== LISTS ===== */
+.markdown-preview-view ul li {
+    color: rgba(255, 255, 255, 0.85);
+    padding: 2px 0;
+}
+
+.markdown-preview-view ul li::marker {
+    color: #f59e0b;
+}
+
+/* ===== IMAGES — match app sizing ===== */
+.markdown-preview-view img {
+    border-radius: 8px;
+    max-width: 420px;
+    display: block;
+    margin: 12px 0;
+}
+
+/* ===== EDITOR: Make quiz blocks visually distinct in editing mode ===== */
+.cm-s-obsidian span.cm-hmd-codeblock {
+    color: rgba(255, 255, 255, 0.7);
+}

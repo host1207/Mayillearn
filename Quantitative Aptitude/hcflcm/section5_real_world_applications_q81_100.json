@@ -1,0 +1,287 @@
+{
+    "topic": "HCF and LCM",
+    "section": "Section V: Real-World Applications and Digit Constraints",
+    "questionRange": "Q81-Q100",
+    "questions": [
+        {
+            "qid": "hcflcm_081",
+            "question": "Find the greatest possible length which can be used to measure exactly the lengths 4 m 95 cm, 9 m and 16 m 65 cm.",
+            "options": {
+                "A": "15 cm",
+                "B": "25 cm",
+                "C": "35 cm",
+                "D": "45 cm"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_082",
+            "question": "Find the least number which is exactly divisible by 32, 36, 45, 60 and 80.",
+            "options": {
+                "A": "720",
+                "B": "1440",
+                "C": "2880",
+                "D": "1080"
+            },
+            "correctAnswer": "B",
+            "subtopic": "L.C.M. Calculation",
+            "examInfo": "R.R.B. 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_083",
+            "question": "Find the greatest number of five digits which is divisible by 15, 21 and 36.",
+            "options": {
+                "A": "99540",
+                "B": "99999",
+                "C": "99720",
+                "D": "99360"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "P.C.S. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_084",
+            "question": "Find the smallest number of five digits exactly divisible by 16, 24, 36 and 54.",
+            "options": {
+                "A": "10368",
+                "B": "10000",
+                "C": "10432",
+                "D": "10800"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_085",
+            "question": "Find the largest number which when subtracted from 10000, the remainder is divisible by 32, 36, 48 and 50.",
+            "options": {
+                "A": "864",
+                "B": "9136",
+                "C": "1200",
+                "D": "9000"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "R.R.B. 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_086",
+            "question": "Find the largest number of five digits which, when divided by 16, 24, 30 or 36, leaves the same remainder 10 in each case.",
+            "options": {
+                "A": "99360",
+                "B": "99370",
+                "C": "99999",
+                "D": "99250"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "C.P.O. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_087",
+            "question": "The traffic lights at three different road crossings change after every 48 sec., 72 sec. and 108 sec. respectively. If they all change simultaneously at 8:20:00 hours, then at what time will they again change simultaneously?",
+            "options": {
+                "A": "8:27:12 hrs",
+                "B": "8:24:48 hrs",
+                "C": "8:30:00 hrs",
+                "D": "8:28:12 hrs"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "M.A.T. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_088",
+            "question": "Seema, Meena and Reema begin to jog around a circular stadium and they complete their revolutions in 54 seconds, 42 seconds and 63 seconds respectively. After how much time will they come together at the starting point?",
+            "options": {
+                "A": "378 sec",
+                "B": "540 sec",
+                "C": "618 sec",
+                "D": "420 sec"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "Bank P.O. 2010",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_089",
+            "question": "Arrange the fractions 17/18, 31/36, 43/45, and 59/60 in ascending order.",
+            "options": {
+                "A": "31/36, 17/18, 43/45, 59/60",
+                "B": "17/18, 31/36, 43/45, 59/60",
+                "C": "59/60, 43/45, 31/36, 17/18",
+                "D": "31/36, 43/45, 17/18, 59/60"
+            },
+            "correctAnswer": "A",
+            "subtopic": "H.C.F. & L.C.M. of Fractions",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_090",
+            "question": "L.C.M. of two prime numbers x and y (x > y) is 161. The value of 3y - x is:",
+            "options": {
+                "A": "-2",
+                "B": "-1",
+                "C": "1",
+                "D": "2"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Ratio & Number Pairs",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_091",
+            "question": "The greatest number that exactly divides 105, 1001 and 2436 is:",
+            "options": {
+                "A": "3",
+                "B": "7",
+                "C": "11",
+                "D": "21"
+            },
+            "correctAnswer": "B",
+            "subtopic": "H.C.F. Calculation",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_092",
+            "question": "21 mango trees, 42 apple trees and 56 orange trees have to be planted in rows such that each row contains the same number of trees of one variety only. Minimum number of rows in which the trees may be planted is:",
+            "options": {
+                "A": "3",
+                "B": "15",
+                "C": "17",
+                "D": "20"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "M.B.A. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_093",
+            "question": "The greatest possible length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, 12 m 95 cm is:",
+            "options": {
+                "A": "15 cm",
+                "B": "25 cm",
+                "C": "35 cm",
+                "D": "42 cm"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "R.R.B. 2008",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_094",
+            "question": "The capacity of two pots is 120 litres and 56 litres respectively. Find the capacity of a container which can exactly measure the contents of the two pots.",
+            "options": {
+                "A": "7500 cc",
+                "B": "7850 cc",
+                "C": "8000 cc",
+                "D": "9500 cc"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "R.R.B. 2005",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_095",
+            "question": "A daily wage labourer was engaged for a certain number of days for ₹ 5750, but being absent on some of those days he was paid only ₹ 5000. What was his maximum possible daily wage?",
+            "options": {
+                "A": "₹ 125",
+                "B": "₹ 250",
+                "C": "₹ 375",
+                "D": "₹ 500"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "C.P.O. 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_096",
+            "question": "A person has to completely put each of three liquids: 403 litres of petrol, 465 litres of diesel and 496 litres of Mobil Oil in bottles of equal size without mixing. What is the least possible number of bottles required?",
+            "options": {
+                "A": "34",
+                "B": "44",
+                "C": "46",
+                "D": "None of these"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "Civil Services 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_097",
+            "question": "The maximum number of students among whom 1001 pens and 910 pencils can be distributed in such a way that each student gets the same number of pens and same number of pencils is:",
+            "options": {
+                "A": "91",
+                "B": "910",
+                "C": "1001",
+                "D": "1911"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_098",
+            "question": "A rectangular courtyard 3.78 metres long and 5.25 metres wide is to be paved exactly with square tiles, all of the same size. What is the largest size of the tile which could be used for the purpose?",
+            "options": {
+                "A": "14 cm",
+                "B": "21 cm",
+                "C": "42 cm",
+                "D": "None of these"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "General Practice",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_099",
+            "question": "The least number of square tiles required to pave the ceiling of a room 15 m 17 cm long and 9 m 2 cm broad is:",
+            "options": {
+                "A": "656",
+                "B": "738",
+                "C": "814",
+                "D": "902"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "M.B.A. 2006",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        },
+        {
+            "qid": "hcflcm_100",
+            "question": "Three sets of English, Mathematics and Science books containing 336, 240 and 96 books respectively have to be stacked subject-wise with the same height. Total number of stacks will be:",
+            "options": {
+                "A": "14",
+                "B": "21",
+                "C": "22",
+                "D": "48"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Real-World Applications (Bells/Traffic Lights/Measurement)",
+            "examInfo": "S.S.C. 2007",
+            "createdAt": "2026-02-23T08:13:00.000Z"
+        }
+    ]
+}

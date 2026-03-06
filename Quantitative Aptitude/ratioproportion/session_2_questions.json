@@ -1,0 +1,173 @@
+{
+    "questions": [
+        {
+            "id": "q2_13",
+            "question": "If P : Q : R = 3 : 4 : 5, find P/Q : Q/R : R/P.",
+            "options": {
+                "A": "45 : 48 : 100",
+                "B": "4 : 5 : 3",
+                "C": "15 : 16 : 20",
+                "D": "3 : 4 : 5"
+            },
+            "correctAnswer": "A",
+            "explanation": "Given P=3, Q=4, R=5.\n1. Form the ratios: P/Q = 3/4, Q/R = 4/5, R/P = 5/3.\n2. The combined ratio is 3/4 : 4/5 : 5/3.\n3. Take LCM of denominators (4, 5, 3) = 60.\n4. Multiply each term by 60:\n   (3/4)*60 = 45\n   (4/5)*60 = 48\n   (5/3)*60 = 100\nResult: 45 : 48 : 100.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_14",
+            "question": "If A : B = 3 : 5 and B : C = 2 : 7, find A : B : C.",
+            "options": {
+                "A": "6 : 10 : 35",
+                "B": "3 : 5 : 7",
+                "C": "6 : 5 : 14",
+                "D": "12 : 20 : 49"
+            },
+            "correctAnswer": "A",
+            "explanation": "Use the vertical multiplication or common term method.\n1. A:B = 3:5\n2. B:C = 2:7\n3. Multiply to make B common (LCM of 5 and 2 is 10):\n   A:B becomes 6:10 (multiply by 2)\n   B:C becomes 10:35 (multiply by 5)\nResult: 6 : 10 : 35.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_15",
+            "question": "If A : B = 1/3 : 1/5 and B : C = 1/2 : 1/3, find A : B : C.",
+            "options": {
+                "A": "5 : 3 : 2",
+                "B": "3 : 5 : 2",
+                "C": "10 : 6 : 4",
+                "D": "15 : 9 : 6"
+            },
+            "correctAnswer": "A",
+            "explanation": "First, simplify the fractional ratios.\n1. A:B = 1/3 : 1/5 = 5:3 (Cross multiply).\n2. B:C = 1/2 : 1/3 = 3:2 (Cross multiply).\n3. Combine A:B (5:3) and B:C (3:2).\n4. Since B is already 3 in both, simply merge them.\nResult: 5 : 3 : 2.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_16",
+            "question": "If a : b = 4 : 7 and c : d = 3a : 2b, find ac : bd.",
+            "options": {
+                "A": "12 : 14",
+                "B": "16 : 49",
+                "C": "12 : 49",
+                "D": "24 : 49"
+            },
+            "correctAnswer": "D",
+            "explanation": "We need to find (ac)/(bd).\n1. We know a/b = 4/7.\n2. We know c/d = 3a/2b = (3/2) * (a/b).\n3. Substitute a/b:\n   c/d = (3/2) * (4/7) = 12/14 = 6/7.\n4. Now calculate (a/b) * (c/d):\n   (4/7) * (6/7) = 24/49.\nResult: 24 : 49.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_17",
+            "question": "If 5A = 3B and 6B = 4C, find A : C.",
+            "options": {
+                "A": "5 : 4",
+                "B": "2 : 5",
+                "C": "6 : 5",
+                "D": "3 : 2"
+            },
+            "correctAnswer": "B",
+            "explanation": "1. 5A = 3B => A/B = 3/5.\n2. 6B = 4C => B/C = 4/6 = 2/3.\n3. A/C = (A/B) * (B/C)\n4. A/C = (3/5) * (2/3) = 6/15.\n5. Simplify 6/15 by dividing by 3 = 2/5.\nResult: 2 : 5.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_18",
+            "question": "If a : b : c = 4 : 5 : 9, find (a + b + c) / b.",
+            "options": {
+                "A": "18/5",
+                "B": "9/5",
+                "C": "4",
+                "D": "5"
+            },
+            "correctAnswer": "A",
+            "explanation": "Substitute a=4, b=5, c=9 directly.\n1. Sum = 4 + 5 + 9 = 18.\n2. Divide by b (5).\nResult: 18/5.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_19",
+            "question": "If x : y = 7 : 3, find (x² + y²) / (x² − y²).",
+            "options": {
+                "A": "29 / 20",
+                "B": "58 / 32",
+                "C": "40 / 58",
+                "D": "32 / 58"
+            },
+            "correctAnswer": "A",
+            "explanation": "Substitute x=7, y=3.\n1. Numerator: 7² + 3² = 49 + 9 = 58.\n2. Denominator: 7² - 3² = 49 - 9 = 40.\n3. Fraction is 58/40.\n4. Simplify by dividing by 2 => 29/20.\n(Note: Option 29/20 is equivalent to 58/40).",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_20",
+            "question": "If x : y = 5 : 4, find (7x − 3y) : (2x + y).",
+            "options": {
+                "A": "23 : 14",
+                "B": "26 : 14",
+                "C": "29 : 14",
+                "D": "32 : 14"
+            },
+            "correctAnswer": "A",
+            "explanation": "Substitute x=5, y=4.\n1. 7x - 3y = 7(5) - 3(4) = 35 - 12 = 23.\n2. 2x + y = 2(5) + 4 = 10 + 4 = 14.\nResult: 23 : 14.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_21",
+            "question": "If x / 3y = 4 / 5, find the value of (x − y) / (x + y) + 1/11.",
+            "options": {
+                "A": "3/23",
+                "B": "14/23",
+                "C": "94/187",
+                "D": "11/23"
+            },
+            "correctAnswer": "C",
+            "explanation": "1. x / 3y = 4 / 5 => x/y = (4*3)/5 = 12/5. Let x=12, y=5.\n2. (x-y)/(x+y) = (12-5)/(12+5) = 7/17.\n3. Add 1/11: 7/17 + 1/11.\n4. LCM of 17 and 11 is 187.\n5. (7*11 + 1*17) / 187 = (77 + 17) / 187 = 94/187.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_22",
+            "question": "If a : b = 3 : 4 and b : c = 5 : 6, find a² : b² : bc.",
+            "options": {
+                "A": "45 : 80 : 96",
+                "B": "36 : 64 : 120",
+                "C": "18 : 32 : 60",
+                "D": "6 : 8 : 10"
+            },
+            "correctAnswer": "A",
+            "explanation": "1. Find a:b:c first. LCM of b (4 and 5) is 20.\n   a:b = 15:20\n   b:c = 20:24\n   So a:b:c = 15:20:24.\n2. Calculate terms:\n   a² = 15² = 225\n   b² = 20² = 400\n   bc = 20 * 24 = 480.\n3. Ratio is 225 : 400 : 480.\n4. Divide by 5 to simplify:\n   45 : 80 : 96.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_23",
+            "question": "If A : B = 3 : 4, B : C = 5 : 6 and C : D = 7 : 8, find A : B : C : D.",
+            "options": {
+                "A": "105 : 140 : 168 : 192",
+                "B": "15 : 20 : 24 : 32",
+                "C": "21 : 28 : 30 : 32",
+                "D": "30 : 40 : 42 : 48"
+            },
+            "correctAnswer": "A",
+            "explanation": "1. Combine A:B (3:4) and B:C (5:6) -> LCM of 4,5 is 20.\n   A:B:C = 15:20:24.\n2. Now combine with C:D (7:8). C matches 24 and 7.\n   LCM of 24 and 7 is 168.\n3. Multiply A:B:C by 7 -> 105 : 140 : 168.\n4. Multiply C:D by 24 -> 168 : 192.\nResult: 105 : 140 : 168 : 192.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_24",
+            "question": "If a : b = 3/4 : 5/6, b : c = 2/3 : 3/4 and c : d = 4 : 5, find a : b : c : d.",
+            "options": {
+                "A": "144 : 160 : 180 : 225",
+                "B": "9 : 15 : 18 : 20",
+                "C": "12 : 20 : 24 : 30",
+                "D": "3 : 5 : 6 : 8"
+            },
+            "correctAnswer": "A",
+            "explanation": "1. a:b = 9:10 (cross multiply 3*6 : 4*5, simplify).\n2. b:c = 8:9 (cross multiply 2*4 : 3*3).\n3. c:d = 4:5.\n4. Combine a:b:c (LCM of 10,8 is 40): 36:40:45.\n5. Combine c:d (LCM of 45,4 is 180):\n   Multiply a:b:c by 4 -> 144 : 160 : 180.\n   Multiply c:d by 45 -> 180 : 225.\nResult: 144 : 160 : 180 : 225.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        },
+        {
+            "id": "q2_25",
+            "question": "If a : b : c = 2 : 5 : 7, find (a + c) / b.",
+            "options": {
+                "A": "9/5",
+                "B": "7/5",
+                "C": "2",
+                "D": "12/5"
+            },
+            "correctAnswer": "A",
+            "explanation": "Substitute a=2, b=5, c=7.\n1. sum = a + c = 2 + 7 = 9.\n2. Divide by b (5).\nResult: 9/5.",
+            "createdAt": "2026-02-03T22:30:00.000Z"
+        }
+    ]
+}

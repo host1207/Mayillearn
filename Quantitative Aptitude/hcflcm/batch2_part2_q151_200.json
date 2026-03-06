@@ -1,0 +1,659 @@
+{
+    "batch": 2,
+    "part": 2,
+    "range": "Q151-Q200",
+    "topic": "HCF and LCM",
+    "addedAt": "2026-02-23T08:41:00+05:30",
+    "questions": [
+        {
+            "qid": "hcflcm_151",
+            "question": "The H.C.F. of 204, 1190 and 1445 is:",
+            "options": {
+                "A": "17",
+                "B": "18",
+                "C": "19",
+                "D": "21"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_152",
+            "question": "Which of the following is a pair of co-primes?",
+            "options": {
+                "A": "(16, 62)",
+                "B": "(18, 25)",
+                "C": "(21, 35)",
+                "D": "(23, 92)"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_153",
+            "question": "The H.C.F. of 2923 and 3239 is:",
+            "options": {
+                "A": "37",
+                "B": "47",
+                "C": "73",
+                "D": "79"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_154",
+            "question": "The L.C.M. of 2³ × 3² × 5 × 11, 2⁴ × 3⁴ × 5² × 7 and 2⁵ × 3³ × 5³ × 7² × 11 is:",
+            "options": {
+                "A": "2³ × 3² × 5",
+                "B": "2⁵ × 3⁴ × 5³",
+                "C": "2³ × 3² × 5 × 7 × 11",
+                "D": "2⁵ × 3⁴ × 5³ × 7² × 11"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_155",
+            "question": "Find the lowest common multiple of 24, 36 and 40.",
+            "options": {
+                "A": "120",
+                "B": "240",
+                "C": "360",
+                "D": "480"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_156",
+            "question": "The L.C.M. of 22, 54, 108, 135 and 198 is:",
+            "options": {
+                "A": "330",
+                "B": "1980",
+                "C": "5940",
+                "D": "11880"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_157",
+            "question": "The L.C.M. of 148 and 185 is:",
+            "options": {
+                "A": "680",
+                "B": "740",
+                "C": "2960",
+                "D": "3700"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_158",
+            "question": "The H.C.F. of a/b, c/d, e/f is equal to:",
+            "options": {
+                "A": "L.C.M.(a,c,e) / H.C.F.(b,d,f)",
+                "B": "H.C.F.(a,c,e) / L.C.M.(b,d,f)",
+                "C": "H.C.F.(a,c,e) / H.C.F.(b,d,f)",
+                "D": "ace/bdf"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "I.A.M."
+        },
+        {
+            "qid": "hcflcm_159",
+            "question": "The H.C.F. of 2/3, 8/9, 64/81, 10/27 is:",
+            "options": {
+                "A": "2/3",
+                "B": "2/81",
+                "C": "160/3",
+                "D": "160/81"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_160",
+            "question": "The H.C.F. of 9/10, 12/25, 18/35, 21/40 is:",
+            "options": {
+                "A": "3/5",
+                "B": "252/5",
+                "C": "3/1400",
+                "D": "63/700"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_161",
+            "question": "The L.C.M. of 1/3, 5/6, 2/9, 4/27 is:",
+            "options": {
+                "A": "1/54",
+                "B": "10/27",
+                "C": "20/3",
+                "D": "None of these"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_162",
+            "question": "The L.C.M. of 2/3, 3/5, 4/7, 9/13 is:",
+            "options": {
+                "A": "36",
+                "B": "1/36",
+                "C": "1/1365",
+                "D": "12/455"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_163",
+            "question": "The L.C.M. of 3/4, 6/7, 9/8 is:",
+            "options": {
+                "A": "3",
+                "B": "6",
+                "C": "9",
+                "D": "18"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "L.I.C.A.D.O."
+        },
+        {
+            "qid": "hcflcm_164",
+            "question": "The H.C.F. of 1.75, 5.6 and 7 is:",
+            "options": {
+                "A": "0.07",
+                "B": "0.7",
+                "C": "3.5",
+                "D": "0.35"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_165",
+            "question": "The G.C.D. of 1.08, 0.36 and 0.9 is:",
+            "options": {
+                "A": "0.03",
+                "B": "0.9",
+                "C": "0.18",
+                "D": "0.108"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Hotel Management"
+        },
+        {
+            "qid": "hcflcm_166",
+            "question": "The H.C.F. of 0.54, 1.8 and 7.2 is:",
+            "options": {
+                "A": "1.8",
+                "B": "0.18",
+                "C": "0.018",
+                "D": "18"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_167",
+            "question": "The L.C.M. of 3, 2.7 and 0.09 is:",
+            "options": {
+                "A": "2.7",
+                "B": "0.27",
+                "C": "0.027",
+                "D": "27"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_168",
+            "question": "If A, B and C are three numbers such that L.C.M.(A, B) = B and L.C.M.(B, C) = C, then L.C.M.(A, B, C) is:",
+            "options": {
+                "A": "A",
+                "B": "B",
+                "C": "C",
+                "D": "(A+B+C)/3"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_169",
+            "question": "H.C.F. of 3240, 3600 and a third number is 36 and their L.C.M. is 2⁴ × 3⁵ × 5² × 7². The third number is:",
+            "options": {
+                "A": "2² × 3⁵ × 7²",
+                "B": "2² × 5³ × 7²",
+                "C": "2⁵ × 5² × 7²",
+                "D": "2³ × 3⁵ × 7²"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "M.A.T."
+        },
+        {
+            "qid": "hcflcm_170",
+            "question": "Three numbers are in ratio 1:2:3 and their H.C.F. is 12. The numbers are:",
+            "options": {
+                "A": "4, 8, 12",
+                "B": "5, 10, 15",
+                "C": "10, 20, 30",
+                "D": "12, 24, 36"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_171",
+            "question": "What is the greatest number of 3 digits which when divided by 6, 9 and 12 leaves a remainder of 3 in each case?",
+            "options": {
+                "A": "903",
+                "B": "939",
+                "C": "975",
+                "D": "996"
+            },
+            "correctAnswer": "C",
+            "subtopic": "N-digit Range",
+            "examInfo": "MBA"
+        },
+        {
+            "qid": "hcflcm_172",
+            "question": "The largest four-digit number which when divided by 4, 7 or 13 leaves a remainder of 3 in each case, is:",
+            "options": {
+                "A": "8739",
+                "B": "9831",
+                "C": "9834",
+                "D": "9893"
+            },
+            "correctAnswer": "B",
+            "subtopic": "N-digit Range",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_173",
+            "question": "Let the least number of six digits, which when divided by 4, 6, 10 and 15, leaves in each case the same remainder of 2, be N. The sum of the digits in N is:",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "correctAnswer": "C",
+            "subtopic": "N-digit Range",
+            "examInfo": "SSC"
+        },
+        {
+            "qid": "hcflcm_174",
+            "question": "The least multiple of 13, which on dividing by 4, 5, 6, 7 and 8 leaves remainder 2 in each case is:",
+            "options": {
+                "A": "840",
+                "B": "842",
+                "C": "2520",
+                "D": "2522"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_175",
+            "question": "Find the least number which when divided by 12, leaves a remainder of 7; when divided by 15, leaves a remainder of 10 and when divided by 16, leaves a remainder of 11.",
+            "options": {
+                "A": "115",
+                "B": "235",
+                "C": "247",
+                "D": "475"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "L.D.C."
+        },
+        {
+            "qid": "hcflcm_176",
+            "question": "The least number, which when divided by 48, 60, 72, 108 and 140 leaves 38, 50, 62, 98 and 130 as remainders respectively is:",
+            "options": {
+                "A": "11115",
+                "B": "15110",
+                "C": "15120",
+                "D": "15210"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "P.C.S."
+        },
+        {
+            "qid": "hcflcm_177",
+            "question": "Find the least multiple of 23, which when divided by 18, 21 and 24 leaves remainders 7, 10 and 13 respectively.",
+            "options": {
+                "A": "3002",
+                "B": "3013",
+                "C": "3024",
+                "D": "3036"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_178",
+            "question": "What is the third term in a sequence of numbers that leave remainders of 1, 2 and 3 when divided by 2, 3 and 4 respectively?",
+            "options": {
+                "A": "11",
+                "B": "17",
+                "C": "19",
+                "D": "35"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Remainder Model (Different Remainders)",
+            "examInfo": "M.A.T."
+        },
+        {
+            "qid": "hcflcm_179",
+            "question": "Find the greatest number of 4 digits which when divided by 4, 5, 6, 7 and 8 leaves 1, 2, 3, 4 and 5 as remainders.",
+            "options": {
+                "A": "9237",
+                "B": "9240",
+                "C": "9840",
+                "D": "9999"
+            },
+            "correctAnswer": "A",
+            "subtopic": "N-digit Range",
+            "examInfo": "M.C.A."
+        },
+        {
+            "qid": "hcflcm_180",
+            "question": "The least number which when divided by 5, 6, 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+            "options": {
+                "A": "1677",
+                "B": "1683",
+                "C": "2523",
+                "D": "3363"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "Section Officers', L.I.C."
+        },
+        {
+            "qid": "hcflcm_181",
+            "question": "Find the least number which when divided by 16, 18, 20 and 25 leaves 4 as remainder in each case, but when divided by 7 leaves no remainder.",
+            "options": {
+                "A": "17004",
+                "B": "18000",
+                "C": "18002",
+                "D": "18004"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_182",
+            "question": "A gardener has to plant trees in rows. If he plants in rows of 6, 8, 10 or 12, then five trees are left. But if he plants in rows of 13, no tree is left. What is the number of trees?",
+            "options": {
+                "A": "485",
+                "B": "725",
+                "C": "845",
+                "D": "None"
+            },
+            "correctAnswer": "C",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "J.M.E.T."
+        },
+        {
+            "qid": "hcflcm_183",
+            "question": "When Seeta made necklaces of either 16 beads, 20 beads or 36 beads, not a single bead was left over. What could be the least number of beads Seeta had?",
+            "options": {
+                "A": "700",
+                "B": "720",
+                "C": "750",
+                "D": "780"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Measurement Models",
+            "examInfo": "Bank Recruitment"
+        },
+        {
+            "qid": "hcflcm_184",
+            "question": "An electronic device beeps every 60 sec. Another beeps every 62 sec. They beeped together at 10 a.m. At what earliest time will they beep together again?",
+            "options": {
+                "A": "10.30 a.m.",
+                "B": "10.31 a.m.",
+                "C": "10.59 a.m.",
+                "D": "11 a.m."
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "MBA"
+        },
+        {
+            "qid": "hcflcm_185",
+            "question": "Six bells toll together and toll at intervals of 2, 4, 6, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+            "options": {
+                "A": "4",
+                "B": "10",
+                "C": "15",
+                "D": "16"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "MBA"
+        },
+        {
+            "qid": "hcflcm_186",
+            "question": "Four bells toll together at intervals of 6, 7, 8 and 9 seconds. In 1.54 hours, how many times do they toll together?",
+            "options": {
+                "A": "14",
+                "B": "12",
+                "C": "11",
+                "D": "16"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "R.R.B."
+        },
+        {
+            "qid": "hcflcm_187",
+            "question": "Devices beep every 30 mins, 1 hr, 1.5 hrs and 1 hr 45 mins. They beeped together at 12 noon. When will they again beep together?",
+            "options": {
+                "A": "12 midnight",
+                "B": "3 a.m.",
+                "C": "6 a.m.",
+                "D": "9 a.m."
+            },
+            "correctAnswer": "D",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_188",
+            "question": "Three girls jog around a circular track in 24s, 36s and 48s. After how much time will they meet at one point?",
+            "options": {
+                "A": "2 min 20s",
+                "B": "2 min 24s",
+                "C": "3 min 36s",
+                "D": "4 min 12s"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Circular Tracks)",
+            "examInfo": "Specialist Officers'"
+        },
+        {
+            "qid": "hcflcm_189",
+            "question": "Three persons walk circular revolutions in 1 5/6, 1 6/4 and 2 18/3 seconds. Together at common starting point after:",
+            "options": {
+                "A": "10s",
+                "B": "20s",
+                "C": "30s",
+                "D": "40s"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Simultaneous Events (Circular Tracks)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_190",
+            "question": "A, B, C run around a circular stadium in 252s, 308s and 198s. After what time will they meet again?",
+            "options": {
+                "A": "26 min 18s",
+                "B": "42 min 36s",
+                "C": "45 min",
+                "D": "46 min 12s"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Simultaneous Events (Circular Tracks)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_191",
+            "question": "Three wheels complete 40, 24 and 16 revolutions per minute. After how much time will red spots touch the ground simultaneously again?",
+            "options": {
+                "A": "7.5 sec",
+                "B": "18 sec",
+                "C": "7.5 min",
+                "D": "18 min"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Simultaneous Events (Circular Tracks)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_192",
+            "question": "A pendulum strikes 5 times in 3 seconds; another 7 times in 4 seconds. How many clear strikes are listened in 1 minute if they start together?",
+            "options": {
+                "A": "195",
+                "B": "199",
+                "C": "200",
+                "D": "205"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Next Instance)",
+            "examInfo": "General Practice"
+        },
+        {
+            "qid": "hcflcm_193",
+            "question": "Find the HCF of 132, 204 and 228.",
+            "options": {
+                "A": "12",
+                "B": "18",
+                "C": "6",
+                "D": "21"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Indian Railways Gr. D"
+        },
+        {
+            "qid": "hcflcm_194",
+            "question": "If three numbers are 2a, 5a and 7a, what will be their LCM?",
+            "options": {
+                "A": "70a",
+                "B": "65a",
+                "C": "75a",
+                "D": "70a³"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Indian Railways Gr. D"
+        },
+        {
+            "qid": "hcflcm_195",
+            "question": "The product of two whole numbers is 1500 and their HCF is 10. Find the LCM.",
+            "options": {
+                "A": "15000",
+                "B": "150",
+                "C": "15",
+                "D": "1500"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "Indian Railways Gr. D"
+        },
+        {
+            "qid": "hcflcm_196",
+            "question": "A number x is divided by 7. When x is divided by 8, 12 and 16, it leaves a remainder 3 in each case. Least value of x:",
+            "options": {
+                "A": "148",
+                "B": "149",
+                "C": "150",
+                "D": "147"
+            },
+            "correctAnswer": "D",
+            "subtopic": "Remainder Model (Same Remainder)",
+            "examInfo": "SSC-CHSL"
+        },
+        {
+            "qid": "hcflcm_197",
+            "question": "The number of pairs of positive integers whose sum is 99 and HCF is 9 is:",
+            "options": {
+                "A": "5",
+                "B": "4",
+                "C": "3",
+                "D": "2"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "SSC-CHSL"
+        },
+        {
+            "qid": "hcflcm_198",
+            "question": "Ratio of two numbers is 3:4 and their LCM is 120. The sum of numbers is:",
+            "options": {
+                "A": "70",
+                "B": "140",
+                "C": "35",
+                "D": "105"
+            },
+            "correctAnswer": "A",
+            "subtopic": "Algebraic & Ratio Relations",
+            "examInfo": "SSC-CHSL"
+        },
+        {
+            "qid": "hcflcm_199",
+            "question": "Greatest four digit number divisible by 12, 18, 21 and 28:",
+            "options": {
+                "A": "9288",
+                "B": "9882",
+                "C": "9828",
+                "D": "9928"
+            },
+            "correctAnswer": "C",
+            "subtopic": "N-digit Range",
+            "examInfo": "SSC-CHSL"
+        },
+        {
+            "qid": "hcflcm_200",
+            "question": "Traffic lights change every 45s, 75s and 90s. If all change at 7:20:15, then they change again together at:",
+            "options": {
+                "A": "7:28:00",
+                "B": "7:27:45",
+                "C": "7:27:30",
+                "D": "7:27:50"
+            },
+            "correctAnswer": "B",
+            "subtopic": "Simultaneous Events (Traffic Lights)",
+            "examInfo": "CLAT"
+        }
+    ]
+}

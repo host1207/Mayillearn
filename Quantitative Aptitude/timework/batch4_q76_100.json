@@ -1,0 +1,283 @@
+{
+    "batch": 4,
+    "range": "Q76-Q100",
+    "hasBookOptions": true,
+    "addedAt": "2026-02-21T12:46:00+05:30",
+    "questions": [
+        {
+            "id": 76,
+            "question": "A can do a piece of work in 14 days which B can do in 21 days. They begin together but 3 days before the completion of the work, A leaves off. The total number of days to complete the work is",
+            "options": {
+                "A": "6 3/5",
+                "B": "8 1/2",
+                "C": "10 1/5",
+                "D": "13 1/2"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 77,
+            "question": "A, B and C can complete a work separately in 24, 36 and 48 days respectively. They started together but C left after 4 days of start and A left 3 days before the completion of the work. In how many days will the work be completed?",
+            "options": {
+                "A": "15 days",
+                "B": "22 days",
+                "C": "25 days",
+                "D": "35 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 78,
+            "question": "A, B and C can complete a work in 10, 12 and 15 days respectively. They started the work together. But A left the work 5 days before its completion. B also left the work 2 days after A left. In how many days was the work completed?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "7",
+                "D": "8"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 79,
+            "question": "A, B and C together earn 300 per day, while A and C together earn 188 and B and C together earn 152. The daily earning of C is:",
+            "options": {
+                "A": "40",
+                "B": "68",
+                "C": "112",
+                "D": "150"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 80,
+            "question": "A, B and C are employed to do a piece of work for 529. A and B together are supposed to do 19/23 of the work and B and C together 8/23 of the work. What amount should A be paid?",
+            "options": {
+                "A": "315",
+                "B": "345",
+                "C": "355",
+                "D": "375"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 81,
+            "question": "Kim can do a work in 3 days while David can do the same work in 2 days. Both of them finish the work together and get 150. What is the share of Kim?",
+            "options": {
+                "A": "30",
+                "B": "60",
+                "C": "70",
+                "D": "75"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 82,
+            "question": "If A can do 1/4 of a work in 3 days and B can do 1/6 of the same work in 4 days, how much will A get if both work together and are paid 180 in all?",
+            "options": {
+                "A": "36",
+                "B": "60",
+                "C": "108",
+                "D": "120"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 83,
+            "question": "A man and a boy received 800 as wages for 5 days for the work they did together. The man's efficiency in the work was three times that of the boy. What are the daily wages of the boy?",
+            "options": {
+                "A": "40",
+                "B": "44",
+                "C": "56",
+                "D": "76"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 84,
+            "question": "Two men undertake to do a piece of work for 1400. The first man alone can do this work in 7 days while the second man alone can do this work in 8 days. If they working together complete this work in 3 days with the help of a boy, how should the money be divided?",
+            "options": {
+                "A": "600, 550, 250",
+                "B": "600, 525, 275",
+                "C": "600, 500, 300",
+                "D": "500, 525, 375"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 85,
+            "question": "A sum of money is sufficient to pay A's wages for 21 days and B's wages for 28 days. The same money is sufficient to pay the wages of both for:",
+            "options": {
+                "A": "12 days",
+                "B": "12 1/4 days",
+                "C": "14 days",
+                "D": "24 1/2 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 86,
+            "question": "A can do a piece of work in 10 days; B in 15 days. They work for 5 days. The rest of the work was finished by C in 2 days. If they get 1500 for the whole work, the daily wages of B and C are",
+            "options": {
+                "A": "150",
+                "B": "225",
+                "C": "250",
+                "D": "300"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 87,
+            "question": "The daily wages of a worker are 100. Five workers can do a work in 10 days. If you pay 20 more daily, they agree to do 25% more work daily. If the proposal is accepted, then the total amount that could be saved is",
+            "options": {
+                "A": "200",
+                "B": "250",
+                "C": "300",
+                "D": "500"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 88,
+            "question": "A and B together can complete a work in 12 days. A alone can complete it in 20 days. If B does the work only for half a day daily, then in how many days A and B together will complete the work?",
+            "options": {
+                "A": "110 days",
+                "B": "11 days",
+                "C": "15 days",
+                "D": "20 days"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 89,
+            "question": "A, B and C completed a work costing 1800. A worked for 6 days, B for 4 days and C for 9 days. If their daily wages are in the ratio of 5 : 6 : 4, how much amount will be received by A?",
+            "options": {
+                "A": "600",
+                "B": "750",
+                "C": "800",
+                "D": "900"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 90,
+            "question": "A and B can complete a piece of work in 12 and 18 days respectively. A begins to do the work and they work alternatively one at a time for one day each. The whole work will be completed in",
+            "options": {
+                "A": "14 1/3 days",
+                "B": "15 2/3 days",
+                "C": "16 1/3 days",
+                "D": "18 2/3 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 91,
+            "question": "A, B and C can do a piece of work in 11 days, 20 days and 55 days respectively, working alone. How soon can the work be done if A is assisted by B and C on alternate days?",
+            "options": {
+                "A": "7 days",
+                "B": "8 days",
+                "C": "9 days",
+                "D": "10 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 92,
+            "question": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+            "options": {
+                "A": "12 days",
+                "B": "15 days",
+                "C": "16 days",
+                "D": "18 days"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 93,
+            "question": "A can do a piece of work in 90 days, B in 40 days and C in 12 days. They work for a day each in turn i.e., first day A does it alone, B does it the second day and C the third day. After that A does it for another day, and so on. After finishing the work they get 240. If the wages are divided in proportion to the work done by them, find what each will get.",
+            "options": {
+                "A": "A 24, B 54 and C 162",
+                "B": "A 22, B 50 and C 132",
+                "C": "A 26, B 52 and C 142",
+                "D": "A 20, B 44 and C 182"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 94,
+            "question": "A and B can finish a work, working on alternate days, in 19 days, when A works on the first day. However, they can finish the work, working on alternate days, in 19 5/6 days, when B works on the first day. How many days does A alone take to finish the work?",
+            "options": {
+                "A": "11 1/2 days",
+                "B": "15 days",
+                "C": "18 days",
+                "D": "21 days"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "id": 95,
+            "question": "A and B can separately do a piece of work in 20 and 15 days respectively. They worked together for 6 days, after which B was replaced by C. If the work was finished in next 4 days, then the number of days in which C alone could do the work will be",
+            "options": {
+                "A": "30",
+                "B": "35",
+                "C": "40",
+                "D": "60"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 96,
+            "question": "A, B and C can do a piece of work in 36, 54 and 72 days respectively. They started the work but A left 8 days before the completion of the work while B left 12 days before the completion. The number of days for which C worked is",
+            "options": {
+                "A": "4",
+                "B": "8",
+                "C": "12",
+                "D": "24"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 97,
+            "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+            "options": {
+                "A": "3 : 4",
+                "B": "4 : 3",
+                "C": "5 : 3",
+                "D": "Data inadequate"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "id": 98,
+            "question": "10 men can complete a piece of work in 15 days and 15 women can complete the same work in 12 days. If all the 10 men and 15 women work together, in how many days will the work get completed?",
+            "options": {
+                "A": "6",
+                "B": "6 1/3",
+                "C": "6 2/3",
+                "D": "7 2/3"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "id": 99,
+            "question": "A job can be done by 3 skilled worksmen in 20 days or by 5 boys in 30 days. How many days will they take if they work together?",
+            "options": {
+                "A": "8 days",
+                "B": "10 days",
+                "C": "11 days",
+                "D": "12 days"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "id": 100,
+            "question": "Five men are working to complete a work in 15 days. After five days 10 women are accompanied by them to complete the work in next 5 days. If the work is to be done by women only, then in how many days could the work be over if 10 women have started it?",
+            "options": {
+                "A": "10 days",
+                "B": "12 days",
+                "C": "15 days",
+                "D": "18 days"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
