@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "812cebdce0379ecf",
+        "id": "78fb712a0f7679da",
         "type": "tabs",
         "children": [
           {
-            "id": "4aac22910f55d03d",
+            "id": "7b4e8b81540e5eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantitative Aptitude/timework/session_2_content  hello.md",
+                "file": "Quantitative Aptitude/timework/session_1_content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session_2_content  hello"
+              "title": "session_1_content"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantitative Aptitude/timework/session_2_content  hello.md",
+                "file": "Quantitative Aptitude/timework/session_1_content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for session_2_content  hello"
+              "title": "Backlinks for session_1_content"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantitative Aptitude/timework/session_2_content  hello.md",
+                "file": "Quantitative Aptitude/timework/session_1_content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from session_2_content  hello"
+              "title": "Outgoing links from session_1_content"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantitative Aptitude/timework/session_2_content  hello.md",
+                "file": "Quantitative Aptitude/timework/session_1_content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of session_2_content  hello"
+              "title": "Outline of session_1_content"
             }
           }
         ]
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aac22910f55d03d",
+  "active": "7b4e8b81540e5eb7",
   "lastOpenFiles": [
+    "Quantitative Aptitude/mixturealligation/lecture_notes.md",
+    "Quantitative Aptitude/timework/session_2_content.md",
     "Quantitative Aptitude/timework/session_1_content.md",
     "hello.md",
     "Quantitative Aptitude/trigonometry",
@@ -200,9 +202,7 @@
     "Quantitative Aptitude/quadraticequations",
     "Quantitative Aptitude/ratioproportion/session_2_content.md",
     "Quantitative Aptitude/ratioproportion/session_1_content.md",
-    "Quantitative Aptitude/mixturealligation/lecture_notes.md",
     "Quantitative Aptitude/average/session_1_content.md",
-    "Quantitative Aptitude/timework/session_2_content  hello.md",
     "Quantitative Aptitude/time and work/hello.md"
   ]
 }
